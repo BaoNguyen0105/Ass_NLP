@@ -1,0 +1,498 @@
+Bên A cung cấp dịch vụ phát triển Hệ thống Quản lý Bệnh viện Điện tử ( HIS ) phiên bản 3.0 .
+Obligation
+
+Phạm vi : phân tích , thiết kế , phát triển , triển khai , đào tạo và bảo trì 24 tháng .
+Obligation
+
+Bên A cam kết hệ thống đáp ứng tiêu chuẩn bảo mật dữ liệu y tế theo Bộ Y tế .
+Obligation
+
+Bên A báo cáo tiến độ mỗi 02 tuần và họp review hàng tháng .
+Obligation
+
+Chậm tiến độ quá 15 ngày , Bên B có quyền yêu cầu tăng nhân lực hoặc phạt theo Điều 7 .
+Right
+
+Bên A không được sử dụng mã nguồn tuỳ chỉnh cho bên thứ ba .
+Prohibition
+
+Bên B có quyền yêu cầu chuyển giao toàn bộ tài liệu kỹ thuật .
+Right
+
+Bên A cam kết bảo mật dữ liệu bệnh nhân , hồ sơ y tế và thông tin kinh doanh .
+Obligation
+
+Nghiêm cấm Bên A truy cập , sao chép hoặc chia sẻ dữ liệu bệnh nhân cho bên thứ ba .
+Prohibition
+
+Nghĩa vụ bảo mật kéo dài vô thời hạn đối với dữ liệu y tế .
+Obligation
+
+Vi phạm bảo mật : bồi thường tối thiểu 500.000.000 VNĐ .
+Obligation
+
+Bảo hành 24 tháng kể từ ngày nghiệm thu .
+Obligation
+
+Hỗ trợ kỹ thuật 24/7 trong thời gian bảo hành .
+Obligation
+
+Chậm tiến độ : phạt 0.3% giá trị hợp đồng mỗi tuần , tối đa 10% .
+Obligation
+
+Không khắc phục lỗi đúng hạn : phạt 5.000.000 VNĐ / ngày đối với lỗi nghiêm trọng .
+Obligation
+
+Chậm thanh toán : lãi suất 1% / tháng .
+Obligation
+
+Bên B có quyền chấm dứt nếu Bên A chậm quá 60 ngày hoặc chất lượng không đạt sau 02 lần yêu cầu sửa .
+Right
+
+Chấm dứt do lỗi Bên A : hoàn trả toàn bộ tiền và bồi thường 15% giá trị hợp đồng .
+Obligation
+
+Bên A bàn giao toàn bộ mã nguồn và tài liệu trong 14 ngày khi chấm dứt .
+Obligation
+
+Tranh chấp giải quyết tại Trung tâm Trọng tài Quốc tế Việt Nam ( VIAC ) .
+Obligation
+
+Hợp đồng lập thành 04 bản
+Obligation
+
+mỗi bên giữ 02 bản .
+Obligation
+
+Bên B được tuyển dụng vào vị trí Kỹ sư phần mềm cấp cao ( Senior Software Engineer ) tại Phòng Phát triển Sản phẩm .
+Right
+
+Bên B có nghĩa vụ hoàn thành các nhiệm vụ được giao theo mô tả công việc đính kèm Phụ lục 1 .
+Obligation
+
+Bên A không được phép chuyển Bên B sang làm công việc khác mà không có sự đồng ý của Bên B , trừ trường hợp tạm thời theo quy định của Bộ luật Lao động .
+Prohibition
+
+Loại hợp đồng : Hợp đồng lao động xác định thời hạn .
+Obligation
+
+Thời gian thử việc : 60 ngày kể từ ngày bắt đầu làm việc .
+Obligation
+
+Trong thời gian thử việc , Bên B được hưởng 85% mức lương chính thức .
+Obligation
+
+Tổng thu nhập hàng tháng : 33.000.000 VNĐ ( chưa trừ các khoản đóng BHXH , BHYT , thuế TNCN ) .
+Obligation
+
+Lương được trả vào ngày 10 hàng tháng qua chuyển khoản ngân hàng .
+Obligation
+
+Bên B được xét thưởng hiệu suất hàng quý , mức thưởng tối đa bằng 01 tháng lương .
+Right
+
+Bên A phải xem xét điều chỉnh lương ít nhất 01 lần mỗi năm , mức tăng tối thiểu không thấp hơn tỷ lệ lạm phát .
+Obligation
+
+Bên B được nghỉ phép năm 15 ngày / năm có hưởng lương .
+Right
+
+Số ngày phép chưa sử dụng được cộng dồn sang năm sau nhưng không quá 05 ngày .
+Right
+
+Bên B được nghỉ các ngày lễ , tết theo quy định của pháp luật .
+Right
+
+Trường hợp làm thêm giờ , Bên A phải trả lương làm thêm theo đúng quy định : 150% vào ngày thường , 200% vào ngày nghỉ hàng tuần , 300% vào ngày lễ .
+Obligation
+
+Bên A không được yêu cầu Bên B làm thêm quá 40 giờ mỗi tháng và 200 giờ mỗi năm .
+Obligation
+
+Bên A đóng bảo hiểm xã hội
+Obligation
+
+bảo hiểm y tế , bảo hiểm thất nghiệp cho Bên B theo quy định pháp luật .
+Obligation
+
+Bên B được hưởng bảo hiểm sức khoẻ cao cấp ( PVI Care ) cho bản thân , mức bảo hiểm 200.000.000 VNĐ / năm .
+Right
+
+Bên B được tham gia các chương trình đào tạo nâng cao kỹ năng do Công ty tổ chức hoặc tài trợ .
+Right
+
+Bên B được hỗ trợ chi phí chứng chỉ chuyên môn quốc tế ( AWS , Azure , GCP ) với mức tối đa 15.000.000 VNĐ / năm .
+Right
+
+Bên B cam kết giữ bí mật mọi thông tin kỹ thuật , kinh doanh , dữ liệu khách hàng và các thông tin mật khác của Bên A trong suốt thời gian làm việc và 24 tháng sau khi chấm dứt hợp đồng .
+Obligation
+
+Bên B không được phép sao chép , chia sẻ hoặc sử dụng mã nguồn , tài liệu kỹ thuật của Bên A cho mục đích cá nhân hoặc bên thứ ba .
+Prohibition
+
+Vi phạm nghĩa vụ bảo mật , Bên B phải bồi thường thiệt hại tối thiểu 100.000.000 VNĐ và chịu trách nhiệm pháp lý theo quy định .
+Obligation
+
+Cấm Bên B làm việc cho đối thủ cạnh tranh trực tiếp của Bên A trong vòng 12 tháng sau khi nghỉ việc .
+Obligation
+
+Bên A phải trả phí bù đắp cho điều khoản này bằng 50% mức lương tháng cuối cho mỗi tháng cam kết .
+Obligation
+
+Bên B có quyền đơn phương chấm dứt hợp đồng trước thời hạn nhưng phải báo trước bằng văn bản ít nhất 30 ngày .
+Right
+
+Bên A có quyền đơn phương chấm dứt hợp đồng khi Bên B vi phạm kỷ luật lao động nghiêm trọng theo nội quy công ty .
+Right
+
+Bên A phải thông báo trước ít nhất 45 ngày nếu đơn phương chấm dứt hợp đồng và phải trả trợ cấp thôi việc theo quy định .
+Obligation
+
+Khi chấm dứt hợp đồng , Bên B phải bàn giao đầy đủ tài sản , tài liệu , mã nguồn và quyền truy cập hệ thống trong vòng 07 ngày làm việc .
+Obligation
+
+Bên A phải thanh toán đầy đủ lương , thưởng và các khoản phúc lợi còn thiếu cho Bên B trong vòng 14 ngày kể từ ngày chấm dứt hợp đồng .
+Obligation
+
+Tranh chấp phát sinh được giải quyết theo quy định của Bộ luật Lao động hiện hành .
+Obligation
+
+Hợp đồng được lập thành 02 bản
+Obligation
+
+mỗi bên giữ 01 bản có giá trị pháp lý như nhau .
+Obligation
+
+Bên A đồng ý bán
+Obligation
+
+Bên B đồng ý mua các loại vật tư xây dựng theo danh mục đính kèm Phụ lục 1 của hợp đồng này .
+Obligation
+
+Hàng hoá phải đảm bảo chất lượng theo tiêu chuẩn TCVN hiện hành và có đầy đủ giấy chứng nhận xuất xứ .
+Obligation
+
+Bên A cam kết hàng hoá là hàng mới 100% , chưa qua sử dụng và không thuộc danh mục hàng cấm kinh doanh .
+Obligation
+
+Đợt 2 : Bên B thanh toán 50% giá trị hợp đồng , tương đương 250.000.000 VNĐ khi Bên A giao đủ hàng hoá đợt 1 .
+Obligation
+
+Bên A phải giao hàng cho Bên B trong vòng 30 ngày kể từ ngày nhận được thanh toán đợt 1 .
+Obligation
+
+Địa điểm giao hàng : Kho của Bên B tại 789 Điện Biên Phủ , Quận Bình Thạnh , TP. Hồ Chí Minh .
+Obligation
+
+Bên A chịu trách nhiệm vận chuyển hàng hoá đến địa điểm giao hàng và chịu mọi chi phí vận chuyển .
+Obligation
+
+Khi giao hàng , Bên A phải cung cấp đầy đủ hoá đơn
+Obligation
+
+phiếu xuất kho và chứng từ liên quan .
+Obligation
+
+Bên B có quyền kiểm tra chất lượng hàng hoá tại thời điểm giao nhận .
+Obligation
+
+Thời gian nghiệm thu là 07 ngày làm việc kể từ ngày giao hàng .
+Obligation
+
+Nếu quá thời hạn mà Bên B không có ý kiến thì coi như hàng hoá đạt yêu cầu .
+Obligation
+
+Bên A bảo hành hàng hoá trong thời gian 12 tháng kể từ ngày nghiệm thu .
+Obligation
+
+Trong thời gian bảo hành , nếu hàng hoá bị lỗi do nhà sản xuất , Bên A có trách nhiệm thay thế hoặc sửa chữa miễn phí trong vòng 05 ngày làm việc kể từ khi nhận được thông báo từ Bên B.
+Obligation
+
+Bên A có quyền yêu cầu Bên B thanh toán đúng hạn theo tiến độ quy định tại Điều 2 .
+Right
+
+Bên A có quyền tạm ngừng giao hàng nếu Bên B chậm thanh toán quá 15 ngày so với thời hạn quy định .
+Right
+
+Bên A có nghĩa vụ giao hàng đúng chủng loại
+Obligation
+
+số lượng , chất lượng và thời hạn đã thoả thuận .
+Obligation
+
+Bên A phải thông báo cho Bên B trước ít nhất 03 ngày nếu có thay đổi về lịch giao hàng .
+Obligation
+
+Bên B có quyền từ chối nhận hàng nếu hàng hoá không đúng chủng loại , số lượng hoặc không đảm bảo chất lượng .
+Right
+
+Bên B có quyền yêu cầu Bên A đổi hàng hoặc giảm giá nếu hàng hoá không đạt tiêu chuẩn chất lượng .
+Right
+
+Bên B có nghĩa vụ thanh toán đầy đủ và đúng hạn theo quy định tại Điều 2 .
+Obligation
+
+Nếu Bên A giao hàng chậm so với thời hạn quy định , Bên A phải chịu phạt 0.5% giá trị lô hàng chậm giao cho mỗi ngày chậm , nhưng tổng mức phạt không vượt quá 8% giá trị hợp đồng .
+Obligation
+
+Nếu Bên B chậm thanh toán , Bên B phải chịu lãi suất chậm trả là 1.5% mỗi tháng trên số tiền chậm thanh toán .
+Obligation
+
+Không bên nào được phép tiết lộ thông tin kinh doanh bí mật của bên kia cho bên thứ ba .
+Prohibition
+
+Bên vi phạm điều khoản bảo mật phải bồi thường thiệt hại tối thiểu 50.000.000 VNĐ .
+Obligation
+
+Trong trường hợp xảy ra sự kiện bất khả kháng như thiên tai , dịch bệnh , chiến tranh hoặc thay đổi chính sách pháp luật , bên bị ảnh hưởng được miễn trách nhiệm thực hiện nghĩa vụ trong thời gian xảy ra sự kiện bất khả kháng .
+Obligation
+
+Bên bị ảnh hưởng phải thông báo cho bên còn lại trong vòng 07 ngày kể từ khi xảy ra sự kiện bất khả kháng .
+Obligation
+
+Nếu sự kiện bất khả kháng kéo dài quá 90 ngày , mỗi bên có quyền đơn phương chấm dứt hợp đồng mà không phải bồi thường thiệt hại .
+Right
+
+Hợp đồng chấm dứt khi hai bên đã hoàn thành đầy đủ nghĩa vụ theo hợp đồng .
+Termination Condition
+
+Hợp đồng có thể chấm dứt trước thời hạn khi hai bên cùng thoả thuận bằng văn bản .
+Termination Condition
+
+Một bên có quyền đơn phương chấm dứt hợp đồng khi bên kia vi phạm nghiêm trọng các điều khoản của hợp đồng và không khắc phục trong vòng 30 ngày kể từ ngày nhận được thông báo yêu cầu khắc phục bằng văn bản .
+Right
+
+Mọi tranh chấp phát sinh từ hoặc liên quan đến hợp đồng này trước hết được giải quyết bằng thương lượng giữa hai bên .
+Obligation
+
+Trường hợp không thương lượng được , tranh chấp sẽ được đưa ra giải quyết tại Trung tâm Trọng tài Quốc tế Việt Nam bên cạnh Phòng Thương mại và Công nghiệp Việt Nam .
+Obligation
+
+Phán quyết của trọng tài là chung thẩm và ràng buộc đối với cả hai bên .
+Obligation
+
+Hợp đồng này được lập thành 04 bản
+Obligation
+
+mỗi bên giữ 02 bản
+Obligation
+
+các bản có giá trị pháp lý như nhau .
+Obligation
+
+Căn cứ Hợp đồng triển khai đề tài khoa học và công nghệ số : 45/2025/HĐ-ĐHQG của đề tài “ Nghiên cứu ứng dụng Trí tuệ nhân tạo trong phân tích ngữ nghĩa văn bản pháp luật ” mã số : B 2025-15-01 .
+Obligation
+
+Do Ông : Nguyễn Văn A - Chủ nhiệm đề tài , làm đại diện .
+Obligation
+
+Do Bà : Trần Thị B - Chức vụ : Giám đốc kinh doanh , làm đại diện .
+Obligation
+
+Giá trên đã bao gồm thuế suất thuế GTGT là 10% .
+Obligation
+
+Hai bên thực hiện nghiêm túc tất cả các điều khoản ghi trong hợp đồng này .
+Obligation
+
+Nếu có tranh chấp phát sinh thì được giải quyết bằng thương lượng và thể hiện bằng văn bản .
+Obligation
+
+Nếu tranh chấp không được giải quyết sẽ được giải quyết tại Trung tâm Trọng tài Quốc tế Việt Nam ( VIAC ) theo quy định của Luật Trọng tài thương mại năm 2010 .
+Obligation
+
+Văn bản này được làm thành 04 bản
+Obligation
+
+mỗi bên giữ 02 bản có giá trị pháp lý như nhau .
+Obligation
+
+Cùng vợ là bà : Nguyễn Thị Mai
+Obligation
+
+Cùng vợ là bà : Trần Thu Cúc
+Obligation
+
+Các bên tự nguyện giao kết Hợp đồng này để thực hiện việc chuyển đổi quyền sử dụng đất nông nghiệp với thông tin cụ thể về thửa đất như sau :
+Obligation
+
+Thửa đất của bên A
+Obligation
+
+Diện tích đất chuyển đổi : 1.500 m2 ( Một ngàn năm trăm mét vuông ) .
+Obligation
+
+Thời hạn sử dụng đất còn lại : Đến ngày 31/12/2045 .
+Obligation
+
+Thửa đất của bên B
+Obligation
+
+Diện tích đất chuyển đổi : 1.450 m2 ( Một ngàn bốn trăm năm mươi mét vuông ) .
+Obligation
+
+Thời hạn sử dụng đất còn lại : Đến ngày 15/05/2050 .
+Obligation
+
+Sau khi hợp đồng có hiệu lực nếu một bên không thực hiện hoặc thực hiện không đúng hoặc có vi phạm khác theo nội dung mà các bên đã thoả thuận phải chịu phạt vi phạm hợp đồng với số tiền là 100 triệu đồng , trừ trường hợp bên vi phạm được miễn nghĩa vụ theo quy định của Bộ luật Dân sự năm 2015 .
+Obligation
+
+Trong quá trình thực hiện Hợp đồng này , nếu phát sinh tranh chấp thì các bên cùng nhau thương lượng , hoà giải trên nguyên tắc tôn trọng quyền và lợi ích hợp pháp của nhau ; trường hợp không giải quyết được thì một trong các bên có quyền khởi kiện để yêu cầu Toà án nhân dân TP. Thủ Đức giải quyết theo đúng quy định của Luật Đất đai năm 2024 .
+Obligation
+
+Hợp đồng này gồm 04 tờ
+Obligation
+
+trang và được lập thành 02 bản có giá trị như nhau , mỗi bên giữ 01 bản để thực hiện .
+Obligation
+
+Bên Mua ( Bên B ) : Công ty TNHH Đầu tư và Phát triển Giáo dục Toàn Cầu
+Obligation
+
+Bên A đồng ý bán phần mềm ERP-X 10 phiên bản 2.0 .
+Obligation
+
+Thuộc quyền sở hữu của Bên A theo Giấy chứng nhận bản quyền số 1234/2024/QTG .
+Obligation
+
+Thời gian bàn giao từ ngày 15/06/2026 đến hết ngày 30/06/2026 tại trụ sở Bên B.
+Obligation
+
+Thanh toán chia làm 02 đợt :
+Obligation
+
+Đợt 2 : Thanh toán số tiền còn lại là 315.000.000 VNĐ sau khi bàn giao dữ liệu gốc .
+Obligation
+
+Bên B giao cho Bên A số tiền cọc là 50.000.000 VNĐ để đảm bảo thực hiện hợp đồng .
+Obligation
+
+Nếu Bên B từ chối mua sẽ mất tiền cọc .
+Obligation
+
+Nếu Bên A không bàn giao đúng hạn sẽ phải trả lại tiền cọc và bồi thường thêm 50.000.000 VNĐ .
+Obligation
+
+Bên A cam kết phần mềm không vi phạm Luật Sở hữu trí tuệ .
+Obligation
+
+Bên B cam kết thanh toán đúng hạn .
+Obligation
+
+Nếu một bên đơn phương chấm dứt hợp đồng sai quy định phải chịu phạt vi phạm là 36.000.000 VNĐ ( tương đương 8% giá trị hợp đồng ) .
+Obligation
+
+Hợp đồng chấm dứt khi hai bên hoàn thành nghĩa vụ hoặc theo thoả thuận bằng văn bản .
+Termination Condition
+
+Hợp đồng có hiệu lực từ ngày 10/06/2026 .
+Obligation
+
+Lập thành 04 bản tiếng Việt , mỗi bên giữ 02 bản .
+Obligation
+
+Căn cứ Bộ Luật Dân sự được Quốc hội nước Cộng hoà xã hội chủ nghĩa Việt Nam thông qua ngày 24 tháng 11 năm 2015 ;
+Obligation
+
+Ông : Trần Minh Quang - Sinh năm :
+Obligation
+
+.
+Obligation
+
+Bên A thuê Bên B hạng mục sau :
+Obligation
+
+Bên A đưa ý tưởng về bộ sản phẩm dưỡng da " Sen Trắng " cho Bên B.
+Obligation
+
+Bên B chịu trách nhiệm quay 01 video review và 05 hình ảnh sản phẩm để đăng trên fanpage cá nhân tại địa chỉ : fb.com/quangminh.reviewer.official
+Obligation
+
+Phương Thức Thanh Toán : Chia làm hai đợt :
+Obligation
+
+Đợt 2 : Thanh toán 60% còn lại ( 48.000.000 VNĐ ) trong vòng 7 ngày làm việc sau khi đăng tải thành công .
+Obligation
+
+Hợp đồng có hiệu lực đến ngày 31/12/2026 .
+Obligation
+
+Bên B không được xoá bài review trong suốt thời hạn này .
+Obligation
+
+Bên B đảm bảo đưa sản phẩm video demo cho bên A trước ngày 25/05/2026 .
+Obligation
+
+Bên B : Nếu không đăng bài đúng cam kết thì chịu phạt 15 % giá trị Hợp đồng ( tương đương 12.000.000 VNĐ ) .
+Obligation
+
+Hợp đồng được lập thành 02 ( hai ) bản có giá trị pháp lý như nhau
+Obligation
+
+mỗi bên giữ 01 bản .
+Obligation
+
+Căn cứ Quyết định số 456 / QĐ-HĐQL-NAFOSTED phê duyệt danh mục và kinh phí nhiệm vụ do Quỹ Phát triển khoa học, công nghệ Quốc gia tài trợ ;
+Obligation
+
+Bên giao nhiệm vụ ( Bên A ) : Quỹ Phát triển khoa học và công nghệ Quốc gia
+Obligation
+
+Đại diện là Ông : Phạm Đình Nguyên - Chức vụ : Giám đốc điều hành .
+Obligation
+
+Đại diện là Ông : Chử Đức Trình - Chức vụ : Hiệu trưởng .
+Obligation
+
+Tổng kinh phí thực hiện : 850.000.000 VNĐ ( Bằng chữ : Tám trăm năm mươi triệu đồng chẵn ) .
+Obligation
+
+Trong đó :
+Obligation
+
+Kinh phí không giao khoán : 250.000.000 VNĐ .
+Obligation
+
+Cấp đợt 2 : 340.000.000 VNĐ ( 40% tổng kinh phí ) sau khi đánh giá giữa kỳ đạt yêu cầu .
+Obligation
+
+Cấp đợt 3 : 85.000.000 VNĐ ( 10% còn lại ) sau khi nghiệm thu cuối kỳ .
+Obligation
+
+Hợp đồng chấm dứt nếu Bên B không thực hiện đúng tiến độ hoặc theo quy định tại Nghị định số 267/2025/NĐ-CP.
+Obligation
+
+Hợp đồng có hiệu lực kể từ ngày 12/03/2026 .
+Obligation
+
+Lập thành 06 bản có giá trị pháp lý như nhau , mỗi Bên giữ 03 bản .
+Obligation
+
+Tên tổ chức : Công ty Cổ phần Tư vấn Quản lý Nhà nước Việt Nam .
+Obligation
+
+Bên B thực hiện hỗ trợ thẩm định hồ sơ kỹ thuật và đánh giá tác động kinh tế của 50 nhiệm vụ khoa học cấp quốc gia .
+Obligation
+
+Yêu cầu : Chuyên gia của Bên B phải có tối thiểu 10 năm kinh nghiệm trong quản lý dự án công .
+Obligation
+
+Tổng tiền dịch vụ là : 250.000.000 VNĐ ( Bằng chữ : Hai trăm năm mươi triệu đồng chẵn ) .
+Obligation
+
+Giá này đã bao gồm thuế suất GTGT 10% .
+Obligation
+
+Bên B đã hoàn thành việc thẩm định 50/50 hồ sơ theo đúng Hợp đồng số 45 / HĐDV .
+Obligation
+
+Các sản phẩm báo cáo đã được bàn giao đầy đủ cho phòng chuyên môn của Bên A vào ngày 16/06/2026 .
+Obligation
+
+Bên A xác nhận đã tạm ứng 75.000.000 VNĐ .
+Obligation
+
+Số tiền còn lại phải thanh toán là 175.000.000 VNĐ .
+Obligation
+

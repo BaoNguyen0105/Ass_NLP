@@ -1,0 +1,12 @@
+﻿Clause,Baseline,PhoBERT (Transformer)
+"Trong thời gian thử việc , Bên B được hưởng 85% mức lương chính thức .",Obligation,Right
+Bên A không được yêu cầu Bên B làm thêm quá 40 giờ mỗi tháng và 200 giờ mỗi năm .,Obligation,Prohibition
+Cấm Bên B làm việc cho đối thủ cạnh tranh trực tiếp của Bên A trong vòng 12 tháng sau khi nghỉ việc .,Obligation,Prohibition
+Bên B có quyền kiểm tra chất lượng hàng hoá tại thời điểm giao nhận .,Obligation,Right
+"Trong trường hợp xảy ra sự kiện bất khả kháng như thiên tai , dịch bệnh , chiến tranh hoặc thay đổi chính sách pháp luật , bên bị ảnh hưởng được miễn trách nhiệm thực hiện nghĩa vụ trong thời gian xảy ra sự kiện bất khả kháng .",Obligation,Right
+"Trong quá trình thực hiện Hợp đồng này , nếu phát sinh tranh chấp thì các bên cùng nhau thương lượng , hoà giải trên nguyên tắc tôn trọng quyền và lợi ích hợp pháp của nhau ; trường hợp không giải quyết được thì một trong các bên có quyền khởi kiện để yêu cầu Toà án nhân dân TP. Thủ Đức giải quyết theo đúng quy định của Luật Đất đai năm 2024 .",Obligation,Right
+Hợp đồng có hiệu lực từ ngày 10/06/2026 .,Obligation,Termination Condition
+Hợp đồng có hiệu lực đến ngày 31/12/2026 .,Obligation,Termination Condition
+Bên B không được xoá bài review trong suốt thời hạn này .,Obligation,Prohibition
+Hợp đồng chấm dứt nếu Bên B không thực hiện đúng tiến độ hoặc theo quy định tại Nghị định số 267/2025/NĐ-CP.,Obligation,Termination Condition
+Hợp đồng có hiệu lực kể từ ngày 12/03/2026 .,Obligation,Termination Condition

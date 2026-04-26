@@ -1,0 +1,26 @@
+% --- subsection1_1.tex ---
+\subsection{Tách mệnh đề (Clause Splitting)}
+
+\subsubsection{Mục tiêu bài toán}
+Các hợp đồng pháp lý trong thực tế thường chứa những câu rất dài và phức tạp, đi kèm với nhiều mệnh đề phụ, điều kiện và các phép liệt kê. Việc xử lý trực tiếp những câu phức này gây khó khăn cho các tác vụ trích xuất thông tin phía sau. Do đó, mục tiêu của tác vụ này là phát triển một thuật toán có khả năng phân tách một câu phức thành các mệnh đề độc lập về mặt ngữ nghĩa, đảm bảo mỗi mệnh đề kết quả là một đơn vị có ý nghĩa hoàn chỉnh để phân tích riêng biệt.
+
+\subsubsection{Phương pháp tiếp cận và Triển khai}
+Để giải quyết bài toán, nhóm đã xây dựng một Pipeline xử lý kết hợp giữa luật (Rule-based) và phân tích cú pháp phụ thuộc (Dependency Parsing) thông qua thư viện \texttt{py\_vncorenlp} và \texttt{nltk}. Quá trình triển khai được chia thành 3 bước cốt lõi:
+
+\begin{enumerate}
+    \item \textbf{Tiền xử lý, lọc và làm sạch văn bản:} 
+    \begin{itemize}
+        \item \textbf{Lọc mệnh đề hữu ích (\texttt{is\_useful}):} Loại bỏ các dòng quá ngắn, cấu trúc đánh dấu điều khoản (ví dụ: "Điều 1.") và các cụm từ rập khuôn thủ tục pháp lý. Sử dụng POS Tagging để đảm bảo câu giữ lại có ít nhất một Động từ (\texttt{V}) đóng vai trò \textit{root}.
+        \item \textbf{Làm sạch tiền tố (\texttt{clean\_prefix}):} Sử dụng Regex để xóa bỏ các ký tự đánh dấu danh sách (như "a)", "-", "1.1.").
+        \item \textbf{Phân từ (Word Segmentation):} Sử dụng bộ \texttt{wseg} của VnCoreNLP để chuẩn hóa từ ghép tiếng Việt.
+    \end{itemize}
+
+    \item \textbf{Phân tích cấu trúc Chủ - Vị (\texttt{has\_SV\_structure}):} 
+    Sử dụng bộ phân tích cú pháp \texttt{parse} của VnCoreNLP. Một chuỗi được xác nhận là mệnh đề độc lập nếu cây cú pháp chứa nhãn phụ thuộc \texttt{sub} (Chủ ngữ) và nhãn \texttt{root} là Động từ (\texttt{V}). Thuật toán cũng bỏ qua các vế bắt đầu bằng từ điều kiện "nếu" để tránh phá vỡ cấu trúc logic.
+
+    \item \textbf{Thuật toán tách mệnh đề đệ quy (\texttt{split\_clause}):} 
+    Sử dụng \texttt{nltk.word\_tokenize} để duyệt qua các từ nối phổ biến như "và", dấu phẩy ",". Nếu việc chia cắt tại từ nối tạo ra hai vế đều thỏa mãn cấu trúc Chủ - Vị, thuật toán sẽ thực hiện cắt và gọi đệ quy cho phần còn lại.
+\end{enumerate}
+
+\subsubsection{Kết quả đầu ra}
+Hệ thống xử lý thành công dữ liệu từ \texttt{raw\_contracts.txt} và xuất kết quả ra \texttt{clauses.txt}. Mỗi dòng trong file kết quả tương ứng với một mệnh đề độc lập, đảm bảo tính mạch lạc về ngữ nghĩa và phục vụ tốt cho các bước xử lý NLP tiếp theo.

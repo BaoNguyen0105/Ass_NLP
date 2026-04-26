@@ -1,0 +1,746 @@
+[
+  {
+    "clause_id": 1,
+    "text": "Bên A cung cấp dịch vụ phát triển Hệ thống Quản lý Bệnh viện Điện tử ( HIS ) phiên bản 3.0 .",
+    "predicate": "cung cấp",
+    "roles": {
+      "Agent": "Bên A",
+      "Theme": "dịch vụ phát triển Hệ thống Quản lý Bệnh viện Điện tử ( HIS ) phiên bản 3.0",
+      "Recipient": "",
+      "Time": "",
+      "Condition": ""
+    }
+  },
+  {
+    "clause_id": 2,
+    "text": "Phạm vi : phân tích , thiết kế , phát triển , triển khai , đào tạo và bảo trì 24 tháng .",
+    "predicate": "Phạm vi",
+    "roles": {
+      "Agent": "",
+      "Theme": "phân tích , thiết kế , phát triển , triển khai , đào tạo và bảo trì ",
+      "Recipient": "",
+      "Time": "24 tháng",
+      "Condition": ""
+    }
+  },
+  {
+    "clause_id": 3,
+    "text": "Bên A cam kết hệ thống đáp ứng tiêu chuẩn bảo mật dữ liệu y tế theo Bộ Y tế .",
+    "predicate": "cam kết",
+    "roles": {
+      "Agent": "Bên A",
+      "Theme": "hệ thống đáp ứng tiêu chuẩn bảo mật dữ liệu y tế theo Bộ Y tế",
+      "Recipient": "",
+      "Time": "",
+      "Condition": ""
+    }
+  },
+  {
+    "clause_id": 4,
+    "text": "Bên A báo cáo tiến độ mỗi 02 tuần và họp review hàng tháng .",
+    "predicate": "báo cáo",
+    "roles": {
+      "Agent": "Bên A",
+      "Theme": "tiến độ",
+      "Recipient": "",
+      "Time": "mỗi 02 tuần",
+      "Condition": ""
+    }
+  },
+  {
+    "clause_id": 5,
+    "text": "Chậm tiến độ quá 15 ngày , Bên B có quyền yêu cầu tăng nhân lực hoặc phạt theo Điều 7 .",
+    "predicate": "có",
+    "roles": {
+      "Agent": "Bên B",
+      "Theme": "quyền yêu cầu tăng nhân lực hoặc phạt theo Điều 7",
+      "Recipient": "",
+      "Time": "",
+      "Condition": "Chậm tiến độ quá 15 ngày"
+    }
+  },
+  {
+    "clause_id": 6,
+    "text": "Bên A không được sử dụng mã nguồn tuỳ chỉnh cho bên thứ ba .",
+    "predicate": "không được sử dụng",
+    "roles": {
+      "Agent": "Bên A",
+      "Theme": "mã nguồn tuỳ chỉnh",
+      "Recipient": "bên thứ ba",
+      "Time": "",
+      "Condition": ""
+    }
+  },
+  {
+    "clause_id": 7,
+    "text": "Bên B có quyền yêu cầu chuyển giao toàn bộ tài liệu kỹ thuật .",
+    "predicate": "có",
+    "roles": {
+      "Agent": "Bên B",
+      "Theme": "quyền yêu cầu chuyển giao toàn bộ tài liệu kỹ thuật",
+      "Recipient": "",
+      "Time": "",
+      "Condition": ""
+    }
+  },
+  {
+    "clause_id": 8,
+    "text": "Bên A cam kết bảo mật dữ liệu bệnh nhân , hồ sơ y tế và thông tin kinh doanh .",
+    "predicate": "cam kết",
+    "roles": {
+      "Agent": "Bên A",
+      "Theme": "dữ liệu bệnh nhân , hồ sơ y tế và thông tin kinh doanh",
+      "Recipient": "",
+      "Time": "",
+      "Condition": ""
+    }
+  },
+  {
+    "clause_id": 9,
+    "text": "Nghiêm cấm Bên A truy cập , sao chép hoặc chia sẻ dữ liệu bệnh nhân cho bên thứ ba .",
+    "predicate": "Nghiêm cấm",
+    "roles": {
+      "Agent": "Bên A",
+      "Theme": "truy cập , sao chép hoặc chia sẻ dữ liệu bệnh nhân",
+      "Recipient": "bên thứ ba",
+      "Time": "",
+      "Condition": ""
+    }
+  },
+  {
+    "clause_id": 10,
+    "text": "Nghĩa vụ bảo mật kéo dài vô thời hạn đối với dữ liệu y tế .",
+    "predicate": "kéo dài",
+    "roles": {
+      "Agent": "Nghĩa vụ bảo mật",
+      "Theme": "dữ liệu y tế",
+      "Recipient": "",
+      "Time": "vô thời hạn",
+      "Condition": ""
+    }
+  },
+  {
+    "clause_id": 11,
+    "text": "Vi phạm bảo mật : bồi thường tối thiểu 500.000.000 VNĐ .",
+    "predicate": "bồi thường",
+    "roles": {
+      "Agent": "",
+      "Theme": "tối thiểu 500.000.000 VNĐ",
+      "Recipient": "",
+      "Time": "",
+      "Condition": "Vi phạm bảo mật"
+    }
+  },
+  {
+    "clause_id": 12,
+    "text": "Bảo hành 24 tháng kể từ ngày nghiệm thu .",
+    "predicate": "Bảo hành",
+    "roles": {
+      "Agent": "",
+      "Theme": "",
+      "Recipient": "",
+      "Time": "24 tháng kể từ ngày nghiệm thu",
+      "Condition": ""
+    }
+  },
+  {
+    "clause_id": 13,
+    "text": "Hỗ trợ kỹ thuật 24/7 trong thời gian bảo hành .",
+    "predicate": "Hỗ trợ kỹ thuật",
+    "roles": {
+      "Agent": "",
+      "Theme": "24/7",
+      "Recipient": "",
+      "Time": "trong thời gian bảo hành",
+      "Condition": ""
+    }
+  },
+  {
+    "clause_id": 14,
+    "text": "Chậm tiến độ : phạt 0.3% giá trị hợp đồng mỗi tuần , tối đa 10% .",
+    "predicate": "phạt",
+    "roles": {
+      "Agent": "",
+      "Theme": "0.3% giá trị hợp đồng mỗi tuần , tối đa 10% ",
+      "Recipient": "",
+      "Time": "",
+      "Condition": "Chậm tiến độ"
+    }
+  },
+  {
+    "clause_id": 15,
+    "text": "Không khắc phục lỗi đúng hạn : phạt 5.000.000 VNĐ / ngày đối với lỗi nghiêm trọng .",
+    "predicate": "phạt",
+    "roles": {
+      "Agent": "",
+      "Theme": "5.000.000 VNĐ / ngày đối với lỗi nghiêm trọng",
+      "Recipient": "",
+      "Time": "",
+      "Condition": "Không khắc phục lỗi đúng hạn"
+    }
+  },
+  {
+    "clause_id": 16,
+    "text": "Chậm thanh toán : lãi suất 1% / tháng .",
+    "predicate": "lãi suất",
+    "roles": {
+      "Agent": "",
+      "Theme": "1% / tháng",
+      "Recipient": "",
+      "Time": "",
+      "Condition": "Chậm thanh toán"
+    }
+  },
+  {
+    "clause_id": 17,
+    "text": "Bên B có quyền chấm dứt nếu Bên A chậm quá 60 ngày hoặc chất lượng không đạt sau 02 lần yêu cầu sửa .",
+    "predicate": "có",
+    "roles": {
+      "Agent": "Bên B",
+      "Theme": "quyền chấm dứt nếu Bên A chậm quá 60 ngày hoặc chất lượng",
+      "Recipient": "",
+      "Time": "",
+      "Condition": "nếu Bên A chậm quá 60 ngày hoặc chất lượng không đạt sau 02 lần yêu cầu sửa"
+    }
+  },
+  {
+    "clause_id": 18,
+    "text": "Chấm dứt do lỗi Bên A : hoàn trả toàn bộ tiền và bồi thường 15% giá trị hợp đồng .",
+    "predicate": "hoàn trả",
+    "roles": {
+      "Agent": "",
+      "Theme": "toàn bộ tiền và bồi thường 15% giá trị hợp đồng",
+      "Recipient": "",
+      "Time": "",
+      "Condition": "Chấm dứt do lỗi Bên A"
+    }
+  },
+  {
+    "clause_id": 19,
+    "text": "Bên A bàn giao toàn bộ mã nguồn và tài liệu trong 14 ngày khi chấm dứt .",
+    "predicate": "bàn giao",
+    "roles": {
+      "Agent": "Bên A",
+      "Theme": "toàn bộ mã nguồn và tài liệu",
+      "Recipient": "",
+      "Time": "14 ngày khi chấm dứt",
+      "Condition": ""
+    }
+  },
+  {
+    "clause_id": 20,
+    "text": "Tranh chấp giải quyết tại Trung tâm Trọng tài Quốc tế Việt Nam ( VIAC ) .",
+    "predicate": "giải quyết",
+    "roles": {
+      "Agent": "Tranh chấp",
+      "Theme": "tại Trung tâm Trọng tài Quốc tế Việt Nam ( VIAC )",
+      "Recipient": "",
+      "Time": "",
+      "Condition": ""
+    }
+  },
+  {
+    "clause_id": 21,
+    "text": "Hợp đồng lập thành 04 bản",
+    "predicate": "lập",
+    "roles": {
+      "Agent": "Hợp đồng",
+      "Theme": "04 bản",
+      "Recipient": "",
+      "Time": "",
+      "Condition": ""
+    }
+  },
+  {
+    "clause_id": 22,
+    "text": "mỗi bên giữ 02 bản .",
+    "predicate": "giữ",
+    "roles": {
+      "Agent": "mỗi bên",
+      "Theme": "02 bản",
+      "Recipient": "",
+      "Time": "",
+      "Condition": ""
+    }
+  },
+  {
+    "clause_id": 23,
+    "text": "Bên B được tuyển dụng vào vị trí Kỹ sư phần mềm cấp cao ( Senior Software Engineer ) tại Phòng Phát triển Sản phẩm .",
+    "predicate": "được tuyển dụng",
+    "roles": {
+      "Agent": "Bên B",
+      "Theme": "vào vị trí Kỹ sư phần mềm cấp cao ( Senior Software Engineer ) tại Phòng Phát triển Sản phẩm",
+      "Recipient": "",
+      "Time": "",
+      "Condition": ""
+    }
+  },
+  {
+    "clause_id": 24,
+    "text": "Bên B có nghĩa vụ hoàn thành các nhiệm vụ được giao theo mô tả công việc đính kèm Phụ lục 1 .",
+    "predicate": "có",
+    "roles": {
+      "Agent": "Bên B",
+      "Theme": "nghĩa vụ hoàn thành các nhiệm vụ được giao theo mô tả công việc đính kèm Phụ lục 1",
+      "Recipient": "",
+      "Time": "",
+      "Condition": ""
+    }
+  },
+  {
+    "clause_id": 25,
+    "text": "Bên A không được phép chuyển Bên B sang làm công việc khác mà không có sự đồng ý của Bên B , trừ trường hợp tạm thời theo quy định của Bộ luật Lao động .",
+    "predicate": "không được phép chuyển",
+    "roles": {
+      "Agent": "Bên A",
+      "Theme": "làm công việc khác mà không có sự đồng ý của Bên B , trừ trường hợp tạm thời theo quy định của Bộ luật Lao động",
+      "Recipient": "Bên B",
+      "Time": "",
+      "Condition": ""
+    }
+  },
+  {
+    "clause_id": 26,
+    "text": "Loại hợp đồng : Hợp đồng lao động xác định thời hạn .",
+    "predicate": "xác định",
+    "roles": {
+      "Agent": "Hợp đồng lao động",
+      "Theme": "thời hạn",
+      "Recipient": "",
+      "Time": "",
+      "Condition": "Loại hợp đồng"
+    }
+  },
+  {
+    "clause_id": 27,
+    "text": "Thời gian thử việc : 60 ngày kể từ ngày bắt đầu làm việc .",
+    "predicate": "bắt đầu làm việc",
+    "roles": {
+      "Agent": "",
+      "Theme": "",
+      "Recipient": "",
+      "Time": "60 ngày",
+      "Condition": "Thời gian thử việc"
+    }
+  },
+  {
+    "clause_id": 28,
+    "text": "Trong thời gian thử việc , Bên B được hưởng 85% mức lương chính thức .",
+    "predicate": "được hưởng",
+    "roles": {
+      "Agent": "Bên B",
+      "Theme": "85% mức lương chính thức",
+      "Recipient": "",
+      "Time": "",
+      "Condition": "Trong thời gian thử việc"
+    }
+  },
+  {
+    "clause_id": 29,
+    "text": "Tổng thu nhập hàng tháng : 33.000.000 VNĐ ( chưa trừ các khoản đóng BHXH , BHYT , thuế TNCN ) .",
+    "predicate": "Tổng thu nhập hàng tháng",
+    "roles": {
+      "Agent": "",
+      "Theme": "33.000.000 VNĐ ( chưa trừ các khoản đóng BHXH , BHYT , thuế TNCN )",
+      "Recipient": "",
+      "Time": "",
+      "Condition": ""
+    }
+  },
+  {
+    "clause_id": 30,
+    "text": "Lương được trả vào ngày 10 hàng tháng qua chuyển khoản ngân hàng .",
+    "predicate": "được trả",
+    "roles": {
+      "Agent": "Lương",
+      "Theme": "qua chuyển khoản ngân hàng",
+      "Recipient": "",
+      "Time": "vào ngày 10 hàng tháng",
+      "Condition": ""
+    }
+  },
+  {
+    "clause_id": 31,
+    "text": "Bên B được xét thưởng hiệu suất hàng quý , mức thưởng tối đa bằng 01 tháng lương .",
+    "predicate": "được xét thưởng hiệu suất",
+    "roles": {
+      "Agent": "Bên B",
+      "Theme": "mức thưởng tối đa bằng 01 tháng lương",
+      "Recipient": "",
+      "Time": "hàng quý",
+      "Condition": ""
+    }
+  },
+  {
+    "clause_id": 32,
+    "text": "Bên A phải xem xét điều chỉnh lương ít nhất 01 lần mỗi năm , mức tăng tối thiểu không thấp hơn tỷ lệ lạm phát .",
+    "predicate": "phải xem xét",
+    "roles": {
+      "Agent": "Bên A",
+      "Theme": "điều chỉnh lương ít nhất 01 lần mỗi năm , mức tăng tối thiểu không thấp hơn tỷ lệ lạm phát",
+      "Recipient": "",
+      "Time": "",
+      "Condition": ""
+    }
+  },
+  {
+    "clause_id": 33,
+    "text": "Bên B được nghỉ phép năm 15 ngày / năm có hưởng lương .",
+    "predicate": "được nghỉ phép",
+    "roles": {
+      "Agent": "Bên B",
+      "Theme": "có hưởng lương",
+      "Recipient": "",
+      "Time": "15 ngày / năm",
+      "Condition": ""
+    }
+  },
+  {
+    "clause_id": 34,
+    "text": "Số ngày phép chưa sử dụng được cộng dồn sang năm sau nhưng không quá 05 ngày .",
+    "predicate": "chưa sử dụng",
+    "roles": {
+      "Agent": "Số ngày phép",
+      "Theme": "được cộng dồn sang năm sau nhưng không quá 05 ngày",
+      "Recipient": "",
+      "Time": "",
+      "Condition": ""
+    }
+  },
+  {
+    "clause_id": 35,
+    "text": "Bên B được nghỉ các ngày lễ , tết theo quy định của pháp luật .",
+    "predicate": "được nghỉ",
+    "roles": {
+      "Agent": "Bên B",
+      "Theme": "các ngày lễ , tết theo quy định của pháp luật",
+      "Recipient": "",
+      "Time": "",
+      "Condition": ""
+    }
+  },
+  {
+    "clause_id": 36,
+    "text": "Trường hợp làm thêm giờ , Bên A phải trả lương làm thêm theo đúng quy định : 150% vào ngày thường , 200% vào ngày nghỉ hàng tuần , 300% vào ngày lễ .",
+    "predicate": "phải trả lương làm thêm",
+    "roles": {
+      "Agent": "Bên A",
+      "Theme": "theo đúng quy định : 150% vào ngày thường , 200% vào ngày nghỉ hàng tuần , 300% vào ngày lễ",
+      "Recipient": "",
+      "Time": "",
+      "Condition": "Trường hợp làm thêm giờ"
+    }
+  },
+  {
+    "clause_id": 37,
+    "text": "Bên A không được yêu cầu Bên B làm thêm quá 40 giờ mỗi tháng và 200 giờ mỗi năm .",
+    "predicate": "không được yêu cầu",
+    "roles": {
+      "Agent": "Bên A",
+      "Theme": "làm thêm quá 40 giờ mỗi tháng và 200 giờ mỗi năm",
+      "Recipient": "Bên B",
+      "Time": "",
+      "Condition": ""
+    }
+  },
+  {
+    "clause_id": 38,
+    "text": "Bên A đóng bảo hiểm xã hội , bảo hiểm y tế , bảo hiểm thất nghiệp cho Bên B theo quy định pháp luật",
+    "predicate": "đóng",
+    "roles": {
+      "Agent": "Bên A",
+      "Theme": "bảo hiểm xã hội , bảo hiểm y tế , bảo hiểm thất nghiệp",
+      "Recipient": "Bên B",
+      "Time": "",
+      "Condition": ""
+    }
+  },
+  {
+    "clause_id": 40,
+    "text": "Bên B được hưởng bảo hiểm sức khoẻ cao cấp ( PVI Care ) cho bản thân , mức bảo hiểm 200.000.000 VNĐ / năm .",
+    "predicate": "được hưởng",
+    "roles": {
+      "Agent": "Bên B",
+      "Theme": "bảo hiểm sức khoẻ cao cấp ( PVI Care ) cho bản thân , mức bảo hiểm 200.000.000 VNĐ / năm",
+      "Recipient": "",
+      "Time": "",
+      "Condition": ""
+    }
+  },
+  {
+    "clause_id": 41,
+    "text": "Bên B được tham gia các chương trình đào tạo nâng cao kỹ năng do Công ty tổ chức hoặc tài trợ .",
+    "predicate": "được tham gia",
+    "roles": {
+      "Agent": "Bên B",
+      "Theme": "các chương trình đào tạo nâng cao kỹ năng do Công ty tổ chức hoặc tài trợ",
+      "Recipient": "",
+      "Time": "",
+      "Condition": ""
+    }
+  },
+  {
+    "clause_id": 42,
+    "text": "Bên B được hỗ trợ chi phí chứng chỉ chuyên môn quốc tế ( AWS , Azure , GCP ) với mức tối đa 15.000.000 VNĐ / năm .",
+    "predicate": "được hỗ trợ",
+    "roles": {
+      "Agent": "Bên B",
+      "Theme": "chi phí chứng chỉ chuyên môn quốc tế ( AWS , Azure , GCP ) với mức tối đa 15.000.000 VNĐ / năm",
+      "Recipient": "",
+      "Time": "",
+      "Condition": ""
+    }
+  },
+  {
+    "clause_id": 43,
+    "text": "Bên B cam kết giữ bí mật mọi thông tin kỹ thuật , kinh doanh , dữ liệu khách hàng và các thông tin mật khác của Bên A trong suốt thời gian làm việc và 24 tháng sau khi chấm dứt hợp đồng .",
+    "predicate": "cam kết",
+    "roles": {
+      "Agent": "Bên B",
+      "Theme": "giữ bí mật mọi thông tin kỹ thuật , kinh doanh , dữ liệu khách hàng và các thông tin mật khác",
+      "Recipient": "Bên A",
+      "Time": "trong suốt thời gian làm việc và 24 tháng sau khi chấm dứt hợp đồng",
+      "Condition": ""
+    }
+  },
+  {
+    "clause_id": 44,
+    "text": "Bên B không được phép sao chép , chia sẻ hoặc sử dụng mã nguồn , tài liệu kỹ thuật của Bên A cho mục đích cá nhân hoặc bên thứ ba .",
+    "predicate": "không được phép",
+    "roles": {
+      "Agent": "Bên B",
+      "Theme": "sao chép , chia sẻ hoặc sử dụng mã nguồn , tài liệu kỹ thuật của Bên A",
+      "Recipient": "mục đích cá nhân hoặc bên thứ ba",
+      "Time": "",
+      "Condition": ""
+    }
+  },
+  {
+    "clause_id": 45,
+    "text": "Vi phạm nghĩa vụ bảo mật , Bên B phải bồi thường thiệt hại tối thiểu 100.000.000 VNĐ và chịu trách nhiệm pháp lý theo quy định .",
+    "predicate": "phải bồi thường thiệt hại",
+    "roles": {
+      "Agent": "Bên B",
+      "Theme": "100.000.000 VNĐ và chịu trách nhiệm pháp lý theo quy định",
+      "Recipient": "",
+      "Time": "",
+      "Condition": "Vi phạm nghĩa vụ bảo mật"
+    }
+  },
+  {
+    "clause_id": 46,
+    "text": "Cấm Bên B làm việc cho đối thủ cạnh tranh trực tiếp của Bên A trong vòng 12 tháng sau khi nghỉ việc .",
+    "predicate": "Cấm",
+    "roles": {
+      "Agent": "",
+      "Theme": "làm việc cho đối thủ cạnh tranh trực tiếp của Bên A",
+      "Recipient": "Bên B",
+      "Time": "trong vòng 12 tháng sau khi nghỉ việc",
+      "Condition": ""
+    }
+  },
+  {
+    "clause_id": 47,
+    "text": "Bên A phải trả phí bù đắp cho điều khoản này bằng 50% mức lương tháng cuối cho mỗi tháng cam kết .",
+    "predicate": "phải trả phí bù đắp",
+    "roles": {
+      "Agent": "Bên A",
+      "Theme": "điều khoản này bằng 50% mức lương tháng cuối cho mỗi tháng cam kết",
+      "Recipient": "",
+      "Time": "",
+      "Condition": ""
+    }
+  },
+  {
+    "clause_id": 48,
+    "text": "Bên B có quyền đơn phương chấm dứt hợp đồng trước thời hạn nhưng phải báo trước bằng văn bản ít nhất 30 ngày .",
+    "predicate": "có",
+    "roles": {
+      "Agent": "Bên B",
+      "Theme": "quyền đơn phương chấm dứt hợp đồng trước thời hạn",
+      "Recipient": "",
+      "Time": "",
+      "Condition": "phải báo trước bằng văn bản ít nhất 30 ngày"
+    }
+  },
+  {
+    "clause_id": 49,
+    "text": "Bên A có quyền đơn phương chấm dứt hợp đồng khi Bên B vi phạm kỷ luật lao động nghiêm trọng theo nội quy công ty .",
+    "predicate": "có",
+    "roles": {
+      "Agent": "Bên A",
+      "Theme": "quyền đơn phương chấm dứt hợp đồng",
+      "Recipient": "",
+      "Time": "",
+      "Condition": "khi Bên B vi phạm kỷ luật lao động nghiêm trọng theo nội quy công ty"
+    }
+  },
+  {
+    "clause_id": 50,
+    "text": "Bên A phải thông báo trước ít nhất 45 ngày nếu đơn phương chấm dứt hợp đồng và phải trả trợ cấp thôi việc theo quy định .",
+    "predicate": "phải thông báo trước",
+    "roles": {
+      "Agent": "Bên A",
+      "Theme": "",
+      "Recipient": "",
+      "Time": "ít nhất 45 ngày",
+      "Condition": "đơn phương chấm dứt hợp đồng và phải trả trợ cấp thôi việc theo quy định"
+    }
+  },
+  {
+    "clause_id": 51,
+    "text": "Khi chấm dứt hợp đồng , Bên B phải bàn giao đầy đủ tài sản , tài liệu , mã nguồn và quyền truy cập hệ thống trong vòng 07 ngày làm việc .",
+    "predicate": "phải bàn giao",
+    "roles": {
+      "Agent": "Bên B",
+      "Theme": "đầy đủ tài sản , tài liệu , mã nguồn và quyền truy cập hệ thống",
+      "Recipient": "",
+      "Time": "trong vòng 07 ngày làm việc",
+      "Condition": "Khi chấm dứt hợp đồng"
+    }
+  },
+  {
+    "clause_id": 52,
+    "text": "Bên A phải thanh toán đầy đủ lương , thưởng và các khoản phúc lợi còn thiếu cho Bên B trong vòng 14 ngày kể từ ngày chấm dứt hợp đồng .",
+    "predicate": "phải thanh toán đầy đủ",
+    "roles": {
+      "Agent": "Bên A",
+      "Theme": "lương , thưởng và các khoản phúc lợi còn thiếu",
+      "Recipient": "Bên B",
+      "Time": "trong vòng 14 ngày kể từ ngày chấm dứt hợp đồng",
+      "Condition": ""
+    }
+  },
+  {
+    "clause_id": 53,
+    "text": "Tranh chấp phát sinh được giải quyết theo quy định của Bộ luật Lao động hiện hành .",
+    "predicate": "phát sinh",
+    "roles": {
+      "Agent": "Tranh chấp",
+      "Theme": "được giải quyết theo quy định của Bộ luật Lao động hiện hành",
+      "Recipient": "",
+      "Time": "",
+      "Condition": ""
+    }
+  },
+  {
+    "clause_id": 54,
+    "text": "Hợp đồng được lập thành 02 bản",
+    "predicate": "được lập",
+    "roles": {
+      "Agent": "Hợp đồng",
+      "Theme": "02 bản",
+      "Recipient": "",
+      "Time": "",
+      "Condition": ""
+    }
+  },
+  {
+    "clause_id": 55,
+    "text": "mỗi bên giữ 01 bản có giá trị pháp lý như nhau .",
+    "predicate": "giữ",
+    "roles": {
+      "Agent": "mỗi bên",
+      "Theme": "01 bản có giá trị pháp lý như nhau",
+      "Recipient": "",
+      "Time": "",
+      "Condition": ""
+    }
+  },
+  {
+    "clause_id": 56,
+    "text": "Bên A đồng ý bán",
+    "predicate": "đồng ý bán",
+    "roles": {
+      "Agent": "Bên A",
+      "Theme": "",
+      "Recipient": "",
+      "Time": "",
+      "Condition": ""
+    }
+  },
+  {
+    "clause_id": 57,
+    "text": "Bên B đồng ý mua các loại vật tư xây dựng theo danh mục đính kèm Phụ lục 1 của hợp đồng này .",
+    "predicate": "đồng ý mua",
+    "roles": {
+      "Agent": "Bên B",
+      "Theme": "các loại vật tư xây dựng theo danh mục đính kèm Phụ lục 1 của hợp đồng này",
+      "Recipient": "",
+      "Time": "",
+      "Condition": ""
+    }
+  },
+  {
+    "clause_id": 58,
+    "text": "Hàng hoá phải đảm bảo chất lượng theo tiêu chuẩn TCVN hiện hành và có đầy đủ giấy chứng nhận xuất xứ .",
+    "predicate": "phải đảm bảo",
+    "roles": {
+      "Agent": "Hàng hoá",
+      "Theme": "chất lượng theo tiêu chuẩn TCVN hiện hành và có đầy đủ giấy chứng nhận xuất xứ",
+      "Recipient": "",
+      "Time": "",
+      "Condition": ""
+    }
+  },
+  {
+    "clause_id": 59,
+    "text": "Bên A cam kết hàng hoá là hàng mới 100% , chưa qua sử dụng và không thuộc danh mục hàng cấm kinh doanh .",
+    "predicate": "cam kết",
+    "roles": {
+      "Agent": "Bên A",
+      "Theme": "hàng hoá là hàng mới 100% , chưa qua sử dụng và không thuộc danh mục hàng cấm kinh doanh",
+      "Recipient": "",
+      "Time": "",
+      "Condition": ""
+    }
+  },
+  {
+    "clause_id": 60,
+    "text": "Đợt 2 : Bên B thanh toán 50% giá trị hợp đồng , tương đương 250.000.000 VNĐ khi Bên A giao đủ hàng hoá đợt 1 .",
+    "predicate": "thanh toán",
+    "roles": {
+      "Agent": "Bên B",
+      "Theme": "50% giá trị hợp đồng , tương đương 250.000.000 VNĐ",
+      "Recipient": "",
+      "Time": "",
+      "Condition": "khi Bên A giao đủ hàng hoá đợt 1"
+    }
+  },
+  {
+    "clause_id": 61,
+    "text": "Bên A phải giao hàng cho Bên B trong vòng 30 ngày kể từ ngày nhận được thanh toán đợt 1 .",
+    "predicate": "phải giao",
+    "roles": {
+      "Agent": "Bên A",
+      "Theme": "hàng",
+      "Recipient": "Bên B",
+      "Time": "trong vòng 30 ngày kể từ ngày nhận được thanh toán đợt 1",
+      "Condition": ""
+    }
+  },
+  {
+    "clause_id": 62,
+    "text": "Địa điểm giao hàng : Kho của Bên B tại 789 Điện Biên Phủ , Quận Bình Thạnh , TP. Hồ Chí Minh .",
+    "predicate": "giao hàng",
+    "roles": {
+      "Agent": "Địa điểm",
+      "Theme": "Kho của Bên B tại 789 Điện Biên Phủ , Quận Bình Thạnh , TP. Hồ Chí Minh",
+      "Recipient": "",
+      "Time": "",
+      "Condition": ""
+    }
+  },
+  {
+    "clause_id": 63,
+    "text": "Bên A chịu trách nhiệm vận chuyển hàng hoá đến địa điểm giao hàng và chịu mọi chi phí vận chuyển .",
+    "predicate": "chịu trách nhiệm vận chuyển",
+    "roles": {
+      "Agent": "Bên A",
+      "Theme": "hàng hoá đến địa điểm giao hàng và chịu mọi chi phí vận chuyển",
+      "Recipient": "",
+      "Time": "",
+      "Condition": ""
+    }
+  }
+]

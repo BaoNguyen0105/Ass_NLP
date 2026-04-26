@@ -1,0 +1,737 @@
+HỢP ĐỒNG CUNG CẤP DỊCH VỤ
+Số: 2025/HĐDV-023
+
+Căn cứ Bộ luật Dân sự năm 2015;
+Căn cứ Luật Thương mại năm 2005;
+
+Hôm nay, ngày 05 tháng 12 năm 2025, tại TP. Hồ Chí Minh, chúng tôi gồm:
+
+BÊN CUNG CẤP DỊCH VỤ (BÊN A):
+Công ty TNHH Giải Pháp Số Thành Công
+Địa chỉ: 567 Cách Mạng Tháng Tám, Quận 10, TP. Hồ Chí Minh
+Mã số thuế: 0315678901
+Đại diện: Ông Đặng Quốc Bảo - Chức vụ: Giám đốc
+
+BÊN SỬ DỤNG DỊCH VỤ (BÊN B):
+Bệnh viện Đa khoa Quốc tế Việt Pháp
+Địa chỉ: 890 Nguyễn Tri Phương, Quận 5, TP. Hồ Chí Minh
+Mã số thuế: 0311223344
+Đại diện: Bà Ngô Thị Hồng Nhung - Chức vụ: Giám đốc Hành chính
+
+ĐIỀU 1: NỘI DUNG DỊCH VỤ
+1.1. Bên A cung cấp dịch vụ phát triển Hệ thống Quản lý Bệnh viện Điện tử (HIS) phiên bản 3.0.
+1.2. Phạm vi: phân tích, thiết kế, phát triển, triển khai, đào tạo và bảo trì 24 tháng.
+1.3. Bên A cam kết hệ thống đáp ứng tiêu chuẩn bảo mật dữ liệu y tế theo Bộ Y tế.
+
+ĐIỀU 2: GIÁ TRỊ VÀ THANH TOÁN
+2.1. Tổng giá trị: 2.500.000.000 VNĐ (Hai tỷ năm trăm triệu đồng), đã bao gồm VAT.
+2.2. Thanh toán 4 đợt: 20% khi ký - 30% sau thiết kế - 30% sau triển khai - 20% sau nghiệm thu.
+2.3. Thanh toán chuyển khoản trong 10 ngày làm việc kể từ khi nhận hồ sơ hợp lệ.
+
+ĐIỀU 3: TIẾN ĐỘ
+3.1. Tổng thời gian: 09 tháng. Thiết kế: 60 ngày. Phát triển: 120 ngày. Triển khai: 60 ngày.
+3.2. Bên A báo cáo tiến độ mỗi 02 tuần và họp review hàng tháng.
+3.3. Chậm tiến độ quá 15 ngày, Bên B có quyền yêu cầu tăng nhân lực hoặc phạt theo Điều 7.
+
+ĐIỀU 4: SỞ HỮU TRÍ TUỆ
+4.1. Mã nguồn thuộc sở hữu Bên B sau khi thanh toán đầy đủ.
+4.2. Bên A không được sử dụng mã nguồn tùy chỉnh cho bên thứ ba.
+4.3. Bên B có quyền yêu cầu chuyển giao toàn bộ tài liệu kỹ thuật.
+
+ĐIỀU 5: BẢO MẬT
+5.1. Bên A cam kết bảo mật dữ liệu bệnh nhân, hồ sơ y tế và thông tin kinh doanh.
+5.2. Nghiêm cấm Bên A truy cập, sao chép hoặc chia sẻ dữ liệu bệnh nhân cho bên thứ ba.
+5.3. Nghĩa vụ bảo mật kéo dài vô thời hạn đối với dữ liệu y tế.
+5.4. Vi phạm bảo mật: bồi thường tối thiểu 500.000.000 VNĐ.
+
+ĐIỀU 6: BẢO HÀNH
+6.1. Bảo hành 24 tháng kể từ ngày nghiệm thu.
+6.2. Lỗi nghiêm trọng: xử lý trong 04 giờ. Lỗi quan trọng: 24 giờ. Lỗi thường: 72 giờ.
+6.3. Hỗ trợ kỹ thuật 24/7 trong thời gian bảo hành.
+
+ĐIỀU 7: PHẠT VI PHẠM
+7.1. Chậm tiến độ: phạt 0.3% giá trị hợp đồng mỗi tuần, tối đa 10%.
+7.2. Không khắc phục lỗi đúng hạn: phạt 5.000.000 VNĐ/ngày đối với lỗi nghiêm trọng.
+7.3. Chậm thanh toán: lãi suất 1%/tháng.
+
+ĐIỀU 8: CHẤM DỨT HỢP ĐỒNG
+8.1. Bên B có quyền chấm dứt nếu Bên A chậm quá 60 ngày hoặc chất lượng không đạt sau 02 lần yêu cầu sửa.
+8.2. Chấm dứt do lỗi Bên A: hoàn trả toàn bộ tiền và bồi thường 15% giá trị hợp đồng.
+8.3. Bên A bàn giao toàn bộ mã nguồn và tài liệu trong 14 ngày khi chấm dứt.
+
+ĐIỀU 9: ĐIỀU KHOẢN CHUNG
+9.1. Tranh chấp giải quyết tại Trung tâm Trọng tài Quốc tế Việt Nam (VIAC).
+9.2. Hợp đồng lập thành 04 bản, mỗi bên giữ 02 bản.
+
+    BÊN CUNG CẤP DỊCH VỤ                   BÊN SỬ DỤNG DỊCH VỤ
+
+    ĐẶNG QUỐC BẢO                           NGÔ THỊ HỒNG NHUNG
+
+HỢP ĐỒNG LAO ĐỘNG
+Số: 2025/HĐLĐ-088
+
+Căn cứ Bộ luật Lao động năm 2019;
+Căn cứ nhu cầu sản xuất kinh doanh và năng lực của người lao động;
+
+Hôm nay, ngày 20 tháng 09 năm 2025, tại Thành phố Đà Nẵng, chúng tôi gồm:
+
+NGƯỜI SỬ DỤNG LAO ĐỘNG (BÊN A):
+Công ty Cổ phần Phần Mềm FPT Đà Nẵng
+Địa chỉ: Lô A17, Khu Công nghệ cao, Quận Ngũ Hành Sơn, TP. Đà Nẵng
+Mã số thuế: 0401234567
+Đại diện: Ông Phạm Đức Trung - Chức vụ: Tổng Giám đốc
+Số điện thoại: 0236-3888-999
+
+NGƯỜI LAO ĐỘNG (BÊN B):
+Ông Võ Minh Khoa
+Ngày sinh: 15/03/1995
+Số CCCD: 048095123456
+Địa chỉ: 234 Trần Phú, Quận Hải Châu, TP. Đà Nẵng
+Trình độ chuyên môn: Kỹ sư Công nghệ Thông tin
+Số điện thoại: 0935-678-901
+
+Hai bên thỏa thuận ký kết hợp đồng lao động với các điều khoản sau:
+
+ĐIỀU 1: CÔNG VIỆC VÀ ĐỊA ĐIỂM LÀM VIỆC
+1.1. Bên B được tuyển dụng vào vị trí Kỹ sư phần mềm cấp cao (Senior Software Engineer) tại Phòng Phát triển Sản phẩm.
+1.2. Địa điểm làm việc: Trụ sở Công ty tại Lô A17, Khu Công nghệ cao, Quận Ngũ Hành Sơn, TP. Đà Nẵng.
+1.3. Bên B có nghĩa vụ hoàn thành các nhiệm vụ được giao theo mô tả công việc đính kèm Phụ lục 1.
+1.4. Bên A không được phép chuyển Bên B sang làm công việc khác mà không có sự đồng ý của Bên B, trừ trường hợp tạm thời theo quy định của Bộ luật Lao động.
+
+ĐIỀU 2: LOẠI HỢP ĐỒNG VÀ THỜI HẠN
+2.1. Loại hợp đồng: Hợp đồng lao động xác định thời hạn.
+2.2. Thời hạn: 24 tháng, từ ngày 01/10/2025 đến hết ngày 30/09/2027.
+2.3. Thời gian thử việc: 60 ngày kể từ ngày bắt đầu làm việc. Trong thời gian thử việc, Bên B được hưởng 85% mức lương chính thức.
+2.4. Sau khi hết thời gian thử việc, nếu Bên B đạt yêu cầu, Bên A phải thông báo kết quả và ký chính thức trong vòng 03 ngày làm việc.
+
+ĐIỀU 3: CHẾ ĐỘ LƯƠNG VÀ PHỤ CẤP
+3.1. Mức lương chính: 30.000.000 VNĐ/tháng (Ba mươi triệu đồng).
+3.2. Phụ cấp:
+    a) Phụ cấp ăn trưa: 1.500.000 VNĐ/tháng
+    b) Phụ cấp đi lại: 1.000.000 VNĐ/tháng
+    c) Phụ cấp điện thoại: 500.000 VNĐ/tháng
+3.3. Tổng thu nhập hàng tháng: 33.000.000 VNĐ (chưa trừ các khoản đóng BHXH, BHYT, thuế TNCN).
+3.4. Lương được trả vào ngày 10 hàng tháng qua chuyển khoản ngân hàng.
+3.5. Bên B được xét thưởng hiệu suất hàng quý, mức thưởng tối đa bằng 01 tháng lương.
+3.6. Bên A phải xem xét điều chỉnh lương ít nhất 01 lần mỗi năm, mức tăng tối thiểu không thấp hơn tỷ lệ lạm phát.
+
+ĐIỀU 4: THỜI GIỜ LÀM VIỆC VÀ NGHỈ NGƠI
+4.1. Thời giờ làm việc: 08 giờ/ngày, 05 ngày/tuần (Thứ Hai đến Thứ Sáu), từ 08:00 đến 17:00.
+4.2. Bên B được nghỉ phép năm 15 ngày/năm có hưởng lương. Số ngày phép chưa sử dụng được cộng dồn sang năm sau nhưng không quá 05 ngày.
+4.3. Bên B được nghỉ các ngày lễ, tết theo quy định của pháp luật.
+4.4. Trường hợp làm thêm giờ, Bên A phải trả lương làm thêm theo đúng quy định: 150% vào ngày thường, 200% vào ngày nghỉ hàng tuần, 300% vào ngày lễ.
+4.5. Bên A không được yêu cầu Bên B làm thêm quá 40 giờ mỗi tháng và 200 giờ mỗi năm.
+
+ĐIỀU 5: BẢO HIỂM XÃ HỘI VÀ PHÚC LỢI
+5.1. Bên A đóng bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp cho Bên B theo quy định pháp luật.
+5.2. Bên B được hưởng bảo hiểm sức khỏe cao cấp (PVI Care) cho bản thân, mức bảo hiểm 200.000.000 VNĐ/năm.
+5.3. Bên B được tham gia các chương trình đào tạo nâng cao kỹ năng do Công ty tổ chức hoặc tài trợ.
+5.4. Bên B được hỗ trợ chi phí chứng chỉ chuyên môn quốc tế (AWS, Azure, GCP) với mức tối đa 15.000.000 VNĐ/năm.
+
+ĐIỀU 6: NGHĨA VỤ BẢO MẬT
+6.1. Bên B cam kết giữ bí mật mọi thông tin kỹ thuật, kinh doanh, dữ liệu khách hàng và các thông tin mật khác của Bên A trong suốt thời gian làm việc và 24 tháng sau khi chấm dứt hợp đồng.
+6.2. Bên B không được phép sao chép, chia sẻ hoặc sử dụng mã nguồn, tài liệu kỹ thuật của Bên A cho mục đích cá nhân hoặc bên thứ ba.
+6.3. Vi phạm nghĩa vụ bảo mật, Bên B phải bồi thường thiệt hại tối thiểu 100.000.000 VNĐ và chịu trách nhiệm pháp lý theo quy định.
+6.4. Cấm Bên B làm việc cho đối thủ cạnh tranh trực tiếp của Bên A trong vòng 12 tháng sau khi nghỉ việc. Bên A phải trả phí bù đắp cho điều khoản này bằng 50% mức lương tháng cuối cho mỗi tháng cam kết.
+
+ĐIỀU 7: CHẤM DỨT HỢP ĐỒNG
+7.1. Bên B có quyền đơn phương chấm dứt hợp đồng trước thời hạn nhưng phải báo trước bằng văn bản ít nhất 30 ngày.
+7.2. Bên A có quyền đơn phương chấm dứt hợp đồng khi Bên B vi phạm kỷ luật lao động nghiêm trọng theo nội quy công ty.
+7.3. Bên A phải thông báo trước ít nhất 45 ngày nếu đơn phương chấm dứt hợp đồng và phải trả trợ cấp thôi việc theo quy định.
+7.4. Khi chấm dứt hợp đồng, Bên B phải bàn giao đầy đủ tài sản, tài liệu, mã nguồn và quyền truy cập hệ thống trong vòng 07 ngày làm việc.
+7.5. Bên A phải thanh toán đầy đủ lương, thưởng và các khoản phúc lợi còn thiếu cho Bên B trong vòng 14 ngày kể từ ngày chấm dứt hợp đồng.
+
+ĐIỀU 8: ĐIỀU KHOẢN CHUNG
+8.1. Hai bên cam kết thực hiện đầy đủ các điều khoản trong hợp đồng này.
+8.2. Tranh chấp phát sinh được giải quyết theo quy định của Bộ luật Lao động hiện hành.
+8.3. Hợp đồng được lập thành 02 bản, mỗi bên giữ 01 bản có giá trị pháp lý như nhau.
+
+    NGƯỜI SỬ DỤNG LAO ĐỘNG                  NGƯỜI LAO ĐỘNG
+    Tổng Giám đốc
+
+
+    PHẠM ĐỨC TRUNG                          VÕ MINH KHOA
+
+HỢP ĐỒNG MUA BÁN HÀNG HÓA
+Số: 2025/HĐMB-001
+
+Căn cứ Bộ luật Dân sự năm 2015;
+Căn cứ Luật Thương mại năm 2005;
+Căn cứ nhu cầu và khả năng của hai bên;
+
+Hôm nay, ngày 15 tháng 10 năm 2025, tại Thành phố Hồ Chí Minh, chúng tôi gồm:
+
+BÊN BÁN (BÊN A):
+Công ty TNHH Thương Mại Minh Phát
+Địa chỉ: 123 Nguyễn Huệ, Quận 1, TP. Hồ Chí Minh
+Mã số thuế: 0312345678
+Đại diện: Ông Nguyễn Văn An - Chức vụ: Giám đốc
+Số điện thoại: 028-3822-1234
+Số tài khoản: 1234567890 tại Ngân hàng Vietcombank - Chi nhánh TP.HCM
+
+BÊN MUA (BÊN B):
+Công ty Cổ phần Xây Dựng Hoàng Long
+Địa chỉ: 456 Lê Lợi, Quận 3, TP. Hồ Chí Minh
+Mã số thuế: 0398765432
+Đại diện: Bà Trần Thị Mai - Chức vụ: Phó Giám đốc
+Số điện thoại: 028-3933-5678
+Số tài khoản: 0987654321 tại Ngân hàng BIDV - Chi nhánh Sài Gòn
+
+Hai bên thỏa thuận ký kết hợp đồng mua bán hàng hóa với các điều khoản sau:
+
+ĐIỀU 1: ĐỐI TƯỢNG HỢP ĐỒNG
+1.1. Bên A đồng ý bán và Bên B đồng ý mua các loại vật tư xây dựng theo danh mục đính kèm Phụ lục 1 của hợp đồng này.
+1.2. Hàng hóa phải đảm bảo chất lượng theo tiêu chuẩn TCVN hiện hành và có đầy đủ giấy chứng nhận xuất xứ.
+1.3. Bên A cam kết hàng hóa là hàng mới 100%, chưa qua sử dụng và không thuộc danh mục hàng cấm kinh doanh.
+
+ĐIỀU 2: GIÁ TRỊ HỢP ĐỒNG VÀ PHƯƠNG THỨC THANH TOÁN
+2.1. Tổng giá trị hợp đồng là 500.000.000 VNĐ (Năm trăm triệu đồng chẵn), đã bao gồm thuế VAT 10%.
+2.2. Phương thức thanh toán: Chuyển khoản ngân hàng.
+2.3. Tiến độ thanh toán:
+    a) Đợt 1: Bên B thanh toán 30% giá trị hợp đồng, tương đương 150.000.000 VNĐ trong vòng 05 ngày làm việc kể từ ngày ký hợp đồng.
+    b) Đợt 2: Bên B thanh toán 50% giá trị hợp đồng, tương đương 250.000.000 VNĐ khi Bên A giao đủ hàng hóa đợt 1.
+    c) Đợt 3: Bên B thanh toán 20% giá trị hợp đồng còn lại, tương đương 100.000.000 VNĐ trong vòng 15 ngày sau khi nhận đủ toàn bộ hàng hóa và hoàn tất nghiệm thu.
+
+ĐIỀU 3: THỜI GIAN VÀ ĐỊA ĐIỂM GIAO HÀNG
+3.1. Bên A phải giao hàng cho Bên B trong vòng 30 ngày kể từ ngày nhận được thanh toán đợt 1.
+3.2. Địa điểm giao hàng: Kho của Bên B tại 789 Điện Biên Phủ, Quận Bình Thạnh, TP. Hồ Chí Minh.
+3.3. Bên A chịu trách nhiệm vận chuyển hàng hóa đến địa điểm giao hàng và chịu mọi chi phí vận chuyển.
+3.4. Khi giao hàng, Bên A phải cung cấp đầy đủ hóa đơn, phiếu xuất kho và chứng từ liên quan.
+
+ĐIỀU 4: NGHIỆM THU VÀ BẢO HÀNH
+4.1. Bên B có quyền kiểm tra chất lượng hàng hóa tại thời điểm giao nhận.
+4.2. Thời gian nghiệm thu là 07 ngày làm việc kể từ ngày giao hàng. Nếu quá thời hạn mà Bên B không có ý kiến thì coi như hàng hóa đạt yêu cầu.
+4.3. Bên A bảo hành hàng hóa trong thời gian 12 tháng kể từ ngày nghiệm thu.
+4.4. Trong thời gian bảo hành, nếu hàng hóa bị lỗi do nhà sản xuất, Bên A có trách nhiệm thay thế hoặc sửa chữa miễn phí trong vòng 05 ngày làm việc kể từ khi nhận được thông báo từ Bên B.
+
+ĐIỀU 5: QUYỀN VÀ NGHĨA VỤ CỦA BÊN A
+5.1. Bên A có quyền yêu cầu Bên B thanh toán đúng hạn theo tiến độ quy định tại Điều 2.
+5.2. Bên A có quyền tạm ngừng giao hàng nếu Bên B chậm thanh toán quá 15 ngày so với thời hạn quy định.
+5.3. Bên A có nghĩa vụ giao hàng đúng chủng loại, số lượng, chất lượng và thời hạn đã thỏa thuận.
+5.4. Bên A phải thông báo cho Bên B trước ít nhất 03 ngày nếu có thay đổi về lịch giao hàng.
+
+ĐIỀU 6: QUYỀN VÀ NGHĨA VỤ CỦA BÊN B
+6.1. Bên B có quyền từ chối nhận hàng nếu hàng hóa không đúng chủng loại, số lượng hoặc không đảm bảo chất lượng.
+6.2. Bên B có quyền yêu cầu Bên A đổi hàng hoặc giảm giá nếu hàng hóa không đạt tiêu chuẩn chất lượng.
+6.3. Bên B có nghĩa vụ thanh toán đầy đủ và đúng hạn theo quy định tại Điều 2.
+6.4. Bên B phải cử người có thẩm quyền để tiếp nhận hàng hóa và ký biên bản giao nhận.
+
+ĐIỀU 7: PHẠT VI PHẠM VÀ BỒI THƯỜNG THIỆT HẠI
+7.1. Nếu Bên A giao hàng chậm so với thời hạn quy định, Bên A phải chịu phạt 0.5% giá trị lô hàng chậm giao cho mỗi ngày chậm, nhưng tổng mức phạt không vượt quá 8% giá trị hợp đồng.
+7.2. Nếu Bên B chậm thanh toán, Bên B phải chịu lãi suất chậm trả là 1.5% mỗi tháng trên số tiền chậm thanh toán.
+7.3. Bên vi phạm phải bồi thường toàn bộ thiệt hại trực tiếp cho bên bị vi phạm do hành vi vi phạm hợp đồng gây ra.
+7.4. Không bên nào được phép tiết lộ thông tin kinh doanh bí mật của bên kia cho bên thứ ba. Bên vi phạm điều khoản bảo mật phải bồi thường thiệt hại tối thiểu 50.000.000 VNĐ.
+
+ĐIỀU 8: BẤT KHẢ KHÁNG
+8.1. Trong trường hợp xảy ra sự kiện bất khả kháng như thiên tai, dịch bệnh, chiến tranh hoặc thay đổi chính sách pháp luật, bên bị ảnh hưởng được miễn trách nhiệm thực hiện nghĩa vụ trong thời gian xảy ra sự kiện bất khả kháng.
+8.2. Bên bị ảnh hưởng phải thông báo cho bên còn lại trong vòng 07 ngày kể từ khi xảy ra sự kiện bất khả kháng.
+8.3. Nếu sự kiện bất khả kháng kéo dài quá 90 ngày, mỗi bên có quyền đơn phương chấm dứt hợp đồng mà không phải bồi thường thiệt hại.
+
+ĐIỀU 9: ĐIỀU KHOẢN CHẤM DỨT HỢP ĐỒNG
+9.1. Hợp đồng chấm dứt khi hai bên đã hoàn thành đầy đủ nghĩa vụ theo hợp đồng.
+9.2. Hợp đồng có thể chấm dứt trước thời hạn khi hai bên cùng thỏa thuận bằng văn bản.
+9.3. Một bên có quyền đơn phương chấm dứt hợp đồng khi bên kia vi phạm nghiêm trọng các điều khoản của hợp đồng và không khắc phục trong vòng 30 ngày kể từ ngày nhận được thông báo yêu cầu khắc phục bằng văn bản.
+9.4. Khi hợp đồng bị chấm dứt trước thời hạn, các bên phải thanh toán đầy đủ các khoản nợ phát sinh trước thời điểm chấm dứt.
+
+ĐIỀU 10: GIẢI QUYẾT TRANH CHẤP
+10.1. Mọi tranh chấp phát sinh từ hoặc liên quan đến hợp đồng này trước hết được giải quyết bằng thương lượng giữa hai bên.
+10.2. Trường hợp không thương lượng được, tranh chấp sẽ được đưa ra giải quyết tại Trung tâm Trọng tài Quốc tế Việt Nam bên cạnh Phòng Thương mại và Công nghiệp Việt Nam.
+10.3. Phán quyết của trọng tài là chung thẩm và ràng buộc đối với cả hai bên.
+
+ĐIỀU 11: ĐIỀU KHOẢN CHUNG
+11.1. Hợp đồng này có hiệu lực kể từ ngày ký và hết hiệu lực khi hai bên hoàn thành đầy đủ nghĩa vụ hoặc khi hợp đồng bị chấm dứt theo quy định tại Điều 9.
+11.2. Mọi sửa đổi, bổ sung hợp đồng phải được lập thành văn bản và có chữ ký của đại diện hợp pháp của cả hai bên.
+11.3. Hợp đồng này được lập thành 04 bản, mỗi bên giữ 02 bản, các bản có giá trị pháp lý như nhau.
+
+    ĐẠI DIỆN BÊN A                         ĐẠI DIỆN BÊN B
+    Giám đốc                                 Phó Giám đốc
+
+
+    NGUYỄN VĂN AN                           TRẦN THỊ MAI
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+
+HỢP ĐỒNG MUA SẢN PHẨM
+Số: 124/2026/HĐ-NCKH
+
+Căn cứ Thông tư liên tịch 55/2015/TTLT-BTC-BKHCN ngày 22/4/2015 của Bộ Tài chính, Bộ Khoa học và Công nghệ về hướng dẫn định mức xây dựng, phân bổ dự toán và quyết toán kinh phí đối với nhiệm vụ khoa học và công nghệ có sử dụng ngân sách Nhà nước.
+
+Căn cứ Bộ luật Dân sự số 91/2015/QH13 được Quốc hội nước Cộng hòa Xã hội Chủ nghĩa Việt Nam thông qua ngày 24 tháng 11 năm 2015.
+
+Căn cứ Hợp đồng triển khai đề tài khoa học và công nghệ số: 45/2025/HĐ-ĐHQG của đề tài “Nghiên cứu ứng dụng Trí tuệ nhân tạo trong phân tích ngữ nghĩa văn bản pháp luật” mã số: B2025-15-01.
+
+Căn cứ vào khả năng & nhu cầu của hai bên.
+
+Hôm nay, ngày 15 tháng 04 năm 2026, chúng tôi gồm:
+
+1. Bên mua (Bên A): Trường Đại học Bách Khoa - ĐHQG TP.HCM
+
+Do Ông: Nguyễn Văn A - Chủ nhiệm đề tài, làm đại diện.
+
+Địa chỉ: 268 Lý Thường Kiệt, Phường 14, Quận 10, TP. Hồ Chí Minh.
+
+Điện thoại: 028 3865 4184.
+
+2. Bên bán (Bên B): Công ty TNHH Công nghệ Số Thông Minh
+
+Do Bà: Trần Thị B - Chức vụ: Giám đốc kinh doanh, làm đại diện.
+
+Địa chỉ: 123 Đường Ba Tháng Hai, Phường 11, Quận 10, TP. Hồ Chí Minh.
+
+Điện thoại: 0909 123 456.
+
+Mã số thuế: 0312345678.
+
+Cùng thỏa thuận và thống nhất ký kết Hợp đồng mua bán sản phẩm (sau đây gọi tắt là Hợp đồng) với các điều khoản sau:
+
+Điều 1: Bên A mua của Bên B các sản phẩm như sau:
+Mua gói dữ liệu "Dataset 10.000 mệnh đề hợp đồng kinh tế đã được gán nhãn", chủng loại dữ liệu số, chất lượng đạt chuẩn F1-score trên 90% khi thử nghiệm với mô hình ngôn ngữ.
+
+Điều 2: Thời gian thực hiện: từ ngày 16 tháng 04 năm 2026 đến ngày 30 tháng 06 năm 2026.
+
+Điều 3: Tổng số tiền để thực hiện là: 150.000.000 VNĐ.
+(Bằng chữ: Một trăm năm mươi triệu đồng chẵn).
+Giá trên đã bao gồm thuế suất thuế GTGT là 10%.
+
+Điều 4: Thanh toán
+Bên A thanh toán cho Bên B bằng hình thức chuyển khoản ngân hàng sau khi Bên B giao nộp sản phẩm đạt yêu cầu và hai bên ký biên bản nghiệm thu, thanh lý hợp đồng.
+
+Điều 5: Cam kết chung:
+Hai bên thực hiện nghiêm túc tất cả các điều khoản ghi trong hợp đồng này. Nếu có tranh chấp phát sinh thì được giải quyết bằng thương lượng và thể hiện bằng văn bản. Nếu tranh chấp không được giải quyết sẽ được giải quyết tại Trung tâm Trọng tài Quốc tế Việt Nam (VIAC) theo quy định của Luật Trọng tài thương mại năm 2010.
+
+Văn bản này được làm thành 04 bản, mỗi bên giữ 02 bản có giá trị pháp lý như nhau.
+Hợp đồng này có hiệu lực từ ngày ký.
+
+Đại diện bên A (Bên mua) Đại diện bên B (Bên bán)
+(Ký tên, đóng dấu) (Ký tên, đóng dấu)
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+
+TP. Thủ Đức, ngày 20 tháng 05 năm 2026
+
+HỢP ĐỒNG CHUYỂN ĐỔI
+QUYỀN SỬ DỤNG ĐẤT NÔNG NGHIỆP
+
+I. PHẦN GHI CỦA CÁC BÊN CHUYỂN ĐỔI
+Hôm nay, ngày 20 tháng 05 năm 2026, tại Văn phòng Công chứng Thủ Thiêm chúng tôi gồm:
+
+Bên A:
+
+Ông: Lê Văn Hải
+
+Sinh năm: 1980
+
+Giấy tờ tùy thân số: 079080001234 do Cục Cảnh sát quản lý hành chính về trật tự xã hội cấp ngày 15/10/2021.
+
+Địa chỉ: 12 Đường số 5, Phường Linh Chiểu, TP. Thủ Đức, TP. Hồ Chí Minh.
+
+Cùng vợ là bà: Nguyễn Thị Mai
+
+Sinh năm: 1983
+
+Giấy tờ tùy thân số: 079083005678 do Cục Cảnh sát quản lý hành chính về trật tự xã hội cấp ngày 20/02/2022.
+
+Địa chỉ: 12 Đường số 5, Phường Linh Chiểu, TP. Thủ Đức, TP. Hồ Chí Minh.
+
+Bên B:
+
+Ông: Phạm Minh Tuấn
+
+Sinh năm: 1975
+
+Giấy tờ tùy thân số: 001075009876 do Cục Cảnh sát quản lý hành chính về trật tự xã hội cấp ngày 05/05/2021.
+
+Địa chỉ: 45 Nguyễn Huệ, Phường Bến Nghé, Quận 1, TP. Hồ Chí Minh.
+
+Cùng vợ là bà: Trần Thu Cúc
+
+Sinh năm: 1978
+
+Giấy tờ tùy thân số: 001078004321 do Cục Cảnh sát quản lý hành chính về trật tự xã hội cấp ngày 12/12/2021.
+
+Địa chỉ: 45 Nguyễn Huệ, Phường Bến Nghé, Quận 1, TP. Hồ Chí Minh.
+
+Điều 1: ĐỐI TƯỢNG CHUYỂN ĐỔI
+Các bên tự nguyện giao kết Hợp đồng này để thực hiện việc chuyển đổi quyền sử dụng đất nông nghiệp với thông tin cụ thể về thửa đất như sau:
+
+1.1. Thửa đất của bên A
+
+Diện tích đất chuyển đổi: 1.500 m2 (Một ngàn năm trăm mét vuông).
+
+Loại đất: Đất trồng lúa (LUC).
+
+Thửa số: 102 - Tờ bản đồ số: 15.
+
+Thời hạn sử dụng đất còn lại: Đến ngày 31/12/2045.
+
+Được cấp Giấy chứng nhận quyền sử dụng đất số: CR 123456 ngày 10 tháng 01 năm 2018.
+
+1.2. Thửa đất của bên B
+
+Diện tích đất chuyển đổi: 1.450 m2 (Một ngàn bốn trăm năm mươi mét vuông).
+
+Loại đất: Đất trồng cây lâu năm (CLN).
+
+Thửa số: 205 - Tờ bản đồ số: 18.
+
+Thời hạn sử dụng đất còn lại: Đến ngày 15/05/2050.
+
+Được cấp Giấy chứng nhận quyền sử dụng đất số: CT 987654 ngày 25 tháng 03 năm 2020.
+
+Điều 2: QUYỀN VÀ NGHĨA VỤ CỦA CÁC BÊN
+(Các điều khoản quyền và nghĩa vụ giữ nguyên theo mẫu)
+
+Thanh toán tiền chênh lệch là 50.000.000 VNĐ (Năm mươi triệu đồng chẵn).
+
+Điều 3: PHẠT VI PHẠM
+Sau khi hợp đồng có hiệu lực nếu một bên không thực hiện hoặc thực hiện không đúng hoặc có vi phạm khác theo nội dung mà các bên đã thỏa thuận phải chịu phạt vi phạm hợp đồng với số tiền là 100 triệu đồng, trừ trường hợp bên vi phạm được miễn nghĩa vụ theo quy định của Bộ luật Dân sự năm 2015.
+
+Điều 4: PHƯƠNG THỨC GIẢI QUYẾT TRANH CHẤP
+Trong quá trình thực hiện Hợp đồng này, nếu phát sinh tranh chấp thì các bên cùng nhau thương lượng, hòa giải trên nguyên tắc tôn trọng quyền và lợi ích hợp pháp của nhau; trường hợp không giải quyết được thì một trong các bên có quyền khởi kiện để yêu cầu Toà án nhân dân TP. Thủ Đức giải quyết theo đúng quy định của Luật Đất đai năm 2024.
+
+Điều 5: CAM ĐOAN CỦA CÁC BÊN
+(Các nội dung cam đoan giữ nguyên)
+
+Điều 6: ĐIỀU KHOẢN CHUNG
+Hợp đồng này gồm 04 tờ, 04 trang và được lập thành 02 bản có giá trị như nhau, mỗi bên giữ 01 bản để thực hiện.
+
+BÊN A (Ký, ghi rõ họ tên)
+
+BÊN B (Ký, ghi rõ họ tên)
+
+II. XÁC NHẬN CỦA UBND CẤP XÃ
+Nội dung thẩm tra của Ủy ban nhân dân Phường Linh Chiểu, TP. Thủ Đức:
+
+Về giấy tờ sử dụng đất: Đầy đủ, hợp lệ.
+
+Về hiện trạng thửa đất: Đúng theo Giấy chứng nhận.
+
+Về điều kiện chuyển đổi: Đủ điều kiện theo quy định pháp luật.
+
+TM. ỦY BAN NHÂN DÂN PHƯỜNG LINH CHIỂU
+(Ký tên, đóng dấu)
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập – Tự do – Hạnh phúc
+
+TP. Hồ Chí Minh, ngày 10 tháng 06 năm 2026
+
+HỢP ĐỒNG MUA BÁN PHẦN MỀM
+(Số: 88/2026/HĐMB-SOFT)
+
+Căn cứ Bộ luật Dân sự năm 2015;
+
+Căn cứ Luật Sở hữu trí tuệ năm 2005 được sửa đổi, bổ sung năm 2009, 2019, 2022;
+
+Căn cứ Luật Giao dịch điện tử năm 2023;
+
+Căn cứ khả năng và nhu cầu của các bên.
+
+Hôm nay, ngày 10 tháng 06 năm 2026 tại địa chỉ 456 Võ Văn Tần, Quận 3, TP. Hồ Chí Minh, chúng tôi gồm:
+
+Bên Bán (Bên A): Công ty Cổ phần Giải pháp Công nghệ xanh (Greentech)
+
+Địa chỉ trụ sở: 789 Điện Biên Phủ, Phường 25, Quận Bình Thạnh, TP. Hồ Chí Minh.
+
+Giấy CNĐKDN số: 0315678901 do Sở Kế hoạch và Đầu tư TP.HCM cấp ngày 15/01/2019.
+
+Người đại diện theo pháp luật: Ông Trần Hoàng Nam - Sinh năm: 1982.
+
+Chức vụ: Tổng Giám đốc.
+
+Số TK: 123456789 - Chi nhánh Gia Định - Ngân hàng Vietcombank.
+
+Bên Mua (Bên B): Công ty TNHH Đầu tư và Phát triển Giáo dục Toàn Cầu
+
+Địa chỉ trụ sở: 12 Thân Nhân Trung, Phường 13, Quận Tân Bình, TP. Hồ Chí Minh.
+
+Giấy CNĐKDN số: 0309876543 do Sở Kế hoạch và Đầu tư TP.HCM cấp ngày 20/03/2015.
+
+Người đại diện theo pháp luật: Bà Lê Thị Thu Thủy - Sinh năm: 1985.
+
+Chức vụ: Giám đốc điều hành.
+
+Số TK: 987654321 - Chi nhánh Tân Bình - Ngân hàng Agribank.
+
+Cùng thỏa thuận ký kết Hợp đồng mua bán phần mềm số 88/2026/HĐMB-SOFT để mua bán Phần mềm Quản lý Tài chính doanh nghiệp ERP-X10 thuộc sở hữu của Bên A theo Giấy chứng nhận đăng ký quyền tác giả số 1234/2024/QTG cho Bên B với giá 450.000.000 VNĐ (Bằng chữ: Bốn trăm năm mươi triệu đồng chẵn).
+
+Điều 1. Đối tượng Hợp đồng
+Bên A đồng ý bán phần mềm ERP-X10 phiên bản 2.0. Thuộc quyền sở hữu của Bên A theo Giấy chứng nhận bản quyền số 1234/2024/QTG. Thời gian bàn giao từ ngày 15/06/2026 đến hết ngày 30/06/2026 tại trụ sở Bên B.
+
+Điều 2. Giá và phương thức thanh toán
+Tổng giá trị hợp đồng là 450.000.000 VNĐ. Số tiền trên đã bao gồm thuế giá trị gia tăng (VAT) mức 10%.
+Thanh toán chia làm 02 đợt:
+
+Đợt 1: Thanh toán 135.000.000 VNĐ (30% giá trị) ngay sau khi ký hợp đồng.
+
+Đợt 2: Thanh toán số tiền còn lại là 315.000.000 VNĐ sau khi bàn giao dữ liệu gốc.
+
+Điều 3. Thực hiện hợp đồng
+Thời hạn thực hiện từ ngày 10/06/2026 đến hết ngày 31/12/2026. Bên A bàn giao bộ mã nguồn và tài liệu hướng dẫn cho Ông Nguyễn Minh Triết (đại diện kỹ thuật của Bên B) trong vòng 05 ngày kể từ ngày thanh toán Đợt 1.
+
+Điều 4. Đặt cọc
+Bên B giao cho Bên A số tiền cọc là 50.000.000 VNĐ để đảm bảo thực hiện hợp đồng. Nếu Bên B từ chối mua sẽ mất tiền cọc. Nếu Bên A không bàn giao đúng hạn sẽ phải trả lại tiền cọc và bồi thường thêm 50.000.000 VNĐ.
+
+Điều 5. Cam kết của các bên
+Bên A cam kết phần mềm không vi phạm Luật Sở hữu trí tuệ. Bên B cam kết thanh toán đúng hạn.
+
+Điều 6. Vi phạm hợp đồng và giải quyết tranh chấp
+Nếu Bên B chậm thanh toán, phải chịu lãi suất chậm trả là 0,05% / ngày trên số tiền chậm trả.
+Nếu một bên đơn phương chấm dứt hợp đồng sai quy định phải chịu phạt vi phạm là 36.000.000 VNĐ (tương đương 8% giá trị hợp đồng).
+Mọi tranh chấp được giải quyết tại Tòa án nhân dân TP. Hồ Chí Minh theo quy định của Bộ luật Tố tụng Dân sự năm 2015.
+
+Điều 7. Chấm dứt hợp đồng
+Hợp đồng chấm dứt khi hai bên hoàn thành nghĩa vụ hoặc theo thỏa thuận bằng văn bản.
+
+Điều 8. Hiệu lực hợp đồng
+Hợp đồng có hiệu lực từ ngày 10/06/2026. Lập thành 04 bản tiếng Việt, mỗi bên giữ 02 bản.
+
+ĐẠI DIỆN BÊN A ĐẠI DIỆN BÊN B
+(Ký tên, đóng dấu) (Ký tên, đóng dấu)
+
+CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+----------o0o-----------
+
+HỢP ĐỒNG HỢP TÁC QUẢNG CÁO
+SỐ 150/2026/HĐHTQC
+
+Căn cứ Bộ Luật Dân sự được Quốc hội nước Cộng hoà xã hội chủ nghĩa Việt Nam thông qua ngày 24 tháng 11 năm 2015;
+
+Căn cứ Luật Thương mại 2005;
+
+Căn cứ Luật Quảng cáo 2012;
+
+Căn cứ nhu cầu và khả năng của hai bên:
+
+Hôm nay, ngày 12 tháng 05 năm 2026, tại Quận 1, TP. Hồ Chí Minh. Chúng tôi gồm có:
+
+BÊN A: CÔNG TY TNHH MỸ PHẨM THIÊN NHIÊN HOA SEN
+
+Do bà: Nguyễn Mai Anh - Sinh năm: 1990 làm đại diện.
+
+Giấy tờ tùy thân số: 001090005678 do Cục Cảnh sát quản lý hành chính về trật tự xã hội cấp ngày 15/05/2021.
+
+Trú tại: 123 Lê Lợi, Phường Bến Thành, Quận 1, TP. Hồ Chí Minh.
+
+BÊN B: ÔNG TRẦN MINH QUANG (KOL QUANG MINH)
+
+Ông: Trần Minh Quang - Sinh năm: 1995.
+
+Giấy tờ tùy thân số: 079095001234 do Cục Cảnh sát quản lý hành chính về trật tự xã hội cấp ngày 20/10/2022.
+
+Trú tại: 45/12 đường Chu Văn An, Phường 12, Quận Bình Thạnh, TP. Hồ Chí Minh.
+
+Website: www.quangminhreview.com.vn
+
+Sau khi bàn bạc, thỏa thuận các bên thống nhất các nội dung sau:
+
+ĐIỀU 1: NỘI DUNG CỦA HỢP ĐỒNG
+Bên A thuê Bên B hạng mục sau:
+
+Bên A đưa ý tưởng về bộ sản phẩm dưỡng da "Sen Trắng" cho Bên B.
+
+Bên B chịu trách nhiệm quay 01 video review và 05 hình ảnh sản phẩm để đăng trên fanpage cá nhân tại địa chỉ: fb.com/quangminh.reviewer.official
+
+ĐIỀU 2: GIÁ TRỊ HỢP ĐỒNG
+2.1 Giá Trị Hợp Đồng: Chi phí thực hiện là 80.000.000 VNĐ (Bằng chữ: Tám mươi triệu đồng chẵn).
+2.2. Phương Thức Thanh Toán: Chia làm hai đợt:
+
+Đợt 1: Thanh toán trước 40% giá trị hợp đồng (tương đương 32.000.000 VNĐ) ngay sau khi ký kết.
+
+Đợt 2: Thanh toán 60% còn lại (48.000.000 VNĐ) trong vòng 7 ngày làm việc sau khi đăng tải thành công.
+
+Thông tin tài khoản: STK: 19034567891011 - Chủ TK: Trần Minh Quang - Ngân hàng: Techcombank Chi nhánh Sài Gòn.
+
+ĐIỀU 3: THỜI HẠN CỦA HỢP ĐỒNG
+Hợp đồng có hiệu lực đến ngày 31/12/2026. Bên B không được xóa bài review trong suốt thời hạn này.
+
+ĐIỀU 4: QUYỀN VÀ TRÁCH NHIỆM CỦA BÊN A
+(Nội dung giữ nguyên theo mẫu)
+
+ĐIỀU 5: QUYỀN VÀ TRÁCH NHIỆM CỦA BÊN B
+Bên B đảm bảo đưa sản phẩm video demo cho bên A trước ngày 25/05/2026.
+
+ĐIỀU 6: PHẠT HỢP ĐỒNG
+
+6.1 Bên A: Nếu chậm thanh toán phải trả lãi suất quá hạn theo quy định của Ngân hàng Vietcombank.
+
+6.2 Bên B: Nếu không đăng bài đúng cam kết thì chịu phạt 15% giá trị Hợp đồng (tương đương 12.000.000 VNĐ).
+
+ĐIỀU 7: CÁC TRƯỜNG HỢP ĐƠN PHƯƠNG CHẤM DỨT HỢP ĐỒNG
+(Nội dung giữ nguyên theo mẫu)
+
+ĐIỀU 8: ĐIỀU KHOẢN CUỐI CÙNG
+Hợp đồng được lập thành 02 (hai) bản có giá trị pháp lý như nhau, mỗi bên giữ 01 bản.
+
+ĐẠI DIỆN BÊN A ĐẠI DIỆN BÊN B
+(Ký, ghi rõ họ tên) (Ký, ghi rõ họ tên)
+
+BỘ KHOA HỌC VÀ CÔNG NGHỆ
+QUỸ PHÁT TRIỂN KHOA HỌC VÀ CÔNG NGHỆ QUỐC GIA (NAFOSTED)
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+
+Hà Nội, ngày 12 tháng 03 năm 2026
+
+HỢP ĐỒNG GIAO THỰC HIỆN NHIỆM VỤ
+(Nhiệm vụ nghiên cứu cơ bản trong Khoa học tự nhiên)
+Số: 106.01-2026.35
+
+Căn cứ Bộ luật Dân sự năm 2015;
+
+Căn cứ Luật Khoa học, công nghệ và đổi mới sáng tạo năm 2025;
+
+Căn cứ Thông tư số 09/2025/TT-BKHCN ngày 15/01/2025 của Bộ trưởng Bộ Khoa học và Công nghệ;
+
+Căn cứ Quyết định số 456/QĐ-HĐQL-NAFOSTED phê duyệt danh mục và kinh phí nhiệm vụ do Quỹ Phát triển khoa học và công nghệ Quốc gia tài trợ;
+
+1. Bên giao nhiệm vụ (Bên A): Quỹ Phát triển khoa học và công nghệ Quốc gia
+
+Đại diện là Ông: Phạm Đình Nguyên - Chức vụ: Giám đốc điều hành.
+
+Địa chỉ: Số 39 Trần Hưng Đạo, Quận Hoàn Kiếm, Hà Nội.
+
+Điện thoại: 024 3936 7750.
+
+Số tài khoản: 21110000012345 tại Ngân hàng BIDV - Chi nhánh Hà Nội.
+
+Mã số sử dụng ngân sách: 1055678.
+
+2. Bên nhận nhiệm vụ (Bên B): Trường Đại học Công nghệ - ĐHQGHN
+
+Đại diện là Ông: Chử Đức Trình - Chức vụ: Hiệu trưởng.
+
+Địa chỉ: 144 Xuân Thủy, Quận Cầu Giấy, Hà Nội.
+
+Điện thoại: 024 3754 7461.
+
+Số tài khoản: 0491000088888 tại Ngân hàng Vietcombank - Chi nhánh Thăng Long.
+
+Mã số sử dụng ngân sách: 1082341.
+
+Điều 1. Thông tin chung về nhiệm vụ
+
+Tên: "Phát triển thuật toán học sâu tối ưu cho hệ thống thị giác máy tính trong nông nghiệp thông minh".
+Mã số: 2026.AI.01.
+
+Loại hình: Nghiên cứu ứng dụng.
+
+Thuộc: Chương trình trọng điểm quốc gia về Trí tuệ nhân tạo đến năm 2030.
+
+Mục tiêu: Xây dựng mô hình nhận diện sâu bệnh với độ chính xác trên 95%.
+
+Điều 2. Thời gian thực hiện nhiệm vụ
+Thời gian thực hiện nhiệm vụ: 24 tháng, từ ngày 01/04/2026 đến ngày 31/03/2028.
+
+Điều 3. Kinh phí thực hiện và phương thức thanh toán
+
+Tổng kinh phí thực hiện: 850.000.000 VNĐ (Bằng chữ: Tám trăm năm mươi triệu đồng chẵn). Trong đó:
+
+Kinh phí giao khoán: 600.000.000 VNĐ.
+
+Kinh phí không giao khoán: 250.000.000 VNĐ.
+
+Tiến độ cấp kinh phí:
+
+Cấp đợt 1 (Tạm ứng): 425.000.000 VNĐ (50% tổng kinh phí) ngay sau khi ký hợp đồng.
+
+Cấp đợt 2: 340.000.000 VNĐ (40% tổng kinh phí) sau khi đánh giá giữa kỳ đạt yêu cầu.
+
+Cấp đợt 3: 85.000.000 VNĐ (10% còn lại) sau khi nghiệm thu cuối kỳ.
+
+Điều 4. Quyền và nghĩa vụ của các bên
+(Nội dung giữ nguyên theo mẫu pháp lý)
+
+Điều 6. Chấm dứt Hợp đồng
+Hợp đồng chấm dứt nếu Bên B không thực hiện đúng tiến độ hoặc theo quy định tại Nghị định số 267/2025/NĐ-CP.
+
+Điều 9. Điều khoản chung
+Mọi tranh chấp phát sinh được giải quyết thông qua thương lượng, trường hợp không thành sẽ khởi kiện tại Tòa án nhân dân Quận Hoàn Kiếm, Hà Nội.
+
+Điều 10. Hiệu lực của Hợp đồng
+Hợp đồng có hiệu lực kể từ ngày 12/03/2026. Lập thành 06 bản có giá trị pháp lý như nhau, mỗi Bên giữ 03 bản.
+
+ĐẠI DIỆN BÊN A ĐẠI DIỆN BÊN B
+(Ký tên, đóng dấu) (Ký tên, đóng dấu)
+
+Bộ, ngành, địa phương: Bộ Khoa học và Công nghệ
+Đơn vị: Quỹ Phát triển khoa học và công nghệ Quốc gia
+-------
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+---------------
+
+Số: 45/HĐDV
+Hà Nội, ngày 10 tháng 01 năm 2026
+
+HỢP ĐỒNG DỊCH VỤ
+THỰC HIỆN NHIỆM VỤ CỦA CÔNG CHỨC
+
+Căn cứ Luật Đấu thầu ngày 23 tháng 6 năm 2023;
+
+Căn cứ Luật sửa đổi, bổ sung một số điều của Luật Đấu thầu và Luật Đầu tư công ngày 25 tháng 6 năm 2025;
+
+Căn cứ Bộ luật Dân sự ngày 24 tháng 11 năm 2015;
+
+Căn cứ Luật Cán bộ, công chức ngày 24 tháng 6 năm 2025;
+
+Căn cứ Nghị định số 173/2025/NĐ-CP ngày 30 tháng 6 năm 2025 của Chính phủ;
+
+Hôm nay, ngày 10 tháng 01 năm 2026 tại trụ sở Quỹ Phát triển khoa học và công nghệ Quốc gia, chúng tôi gồm:
+
+BÊN A: BÊN SỬ DỤNG DỊCH VỤ
+
+Cơ quan, đơn vị: Quỹ Phát triển khoa học và công nghệ Quốc gia (NAFOSTED).
+
+Địa chỉ: Số 39 Trần Hưng Đạo, Quận Hoàn Kiếm, Hà Nội.
+
+Mã số thuế: 0102556789.
+
+Tài khoản Kho bạc: 9523.0.1055678 tại Kho bạc Nhà nước Hoàn Kiếm.
+
+Đại diện: Ông Phạm Đình Nguyên - Chức vụ: Giám đốc điều hành.
+
+BÊN B: BÊN CUNG ỨNG DỊCH VỤ (PHÁP NHÂN)
+
+Tên tổ chức: Công ty Cổ phần Tư vấn Quản lý Nhà nước Việt Nam.
+
+Địa chỉ trụ sở: 15 Lê Thạch, Phường Tràng Tiền, Quận Hoàn Kiếm, Hà Nội.
+
+Mã số thuế: 0109988776.
+
+Tài khoản ngân hàng: 111100008888 tại Ngân hàng BIDV - Chi nhánh Hà Thành.
+
+Người đại diện: Bà Lê Minh Hương - Chức vụ: Tổng Giám đốc.
+
+Điều 1. Nội dung dịch vụ
+
+Bên B thực hiện hỗ trợ thẩm định hồ sơ kỹ thuật và đánh giá tác động kinh tế của 50 nhiệm vụ khoa học cấp quốc gia.
+
+Thời gian thực hiện: từ ngày 15/01/2026 đến ngày 15/06/2026.
+
+Yêu cầu: Chuyên gia của Bên B phải có tối thiểu 10 năm kinh nghiệm trong quản lý dự án công.
+
+Điều 4. Tiền dịch vụ
+
+Tổng tiền dịch vụ là: 250.000.000 VNĐ (Bằng chữ: Hai trăm năm mươi triệu đồng chẵn). Giá này đã bao gồm thuế suất GTGT 10%.
+
+Phương thức thanh toán: Chuyển khoản qua Kho bạc Nhà nước thành 02 đợt (Tạm ứng 30% và thanh toán 70% sau khi thanh lý).
+
+THANH LÝ HỢP ĐỒNG DỊCH VỤ
+
+Hà Nội, ngày 20 tháng 06 năm 2026
+
+Điều 1. Nội dung thanh lý
+Bên B đã hoàn thành việc thẩm định 50/50 hồ sơ theo đúng Hợp đồng số 45/HĐDV. Các sản phẩm báo cáo đã được bàn giao đầy đủ cho phòng chuyên môn của Bên A vào ngày 16/06/2026.
+
+Điều 2. Thanh toán
+Bên A xác nhận đã tạm ứng 75.000.000 VNĐ. Số tiền còn lại phải thanh toán là 175.000.000 VNĐ.
+
+Điều 3. Điều khoản chung
+Hai bên cam kết không còn bất kỳ nghĩa vụ nào phát sinh sau khi ký biên bản này.
+
+Bên A (Ký tên, đóng dấu) Bên B (Ký tên, đóng dấu)

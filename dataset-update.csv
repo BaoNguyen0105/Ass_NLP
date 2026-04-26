@@ -1,0 +1,153 @@
+text,intent
+"Bên B tuyệt đối không được chuyển nhượng hợp đồng này cho bất kỳ bên thứ ba nào khi chưa có sự chấp thuận bằng văn bản của Bên A.",Prohibition
+"Người lao động không được phép mang các thiết bị lưu trữ cá nhân vào khu vực làm việc.",Prohibition
+"Bên A cấm Bên B sử dụng hình ảnh thương hiệu của công ty vào mục đích thương mại riêng.",Prohibition
+"Nghiêm cấm các hành vi tiết lộ công nghệ lõi và mã nguồn mở ra bên ngoài.",Prohibition
+"Không được phép thay đổi cấu trúc của căn nhà thuê nếu chưa được sự đồng ý của chủ nhà.",Prohibition
+"Bên B không được tự ý thỏa thuận giá cả với khách hàng mà không thông qua hệ thống của Bên A.",Prohibition
+"Cấm sử dụng tài sản của công ty để thế chấp hoặc cầm cố dưới mọi hình thức.",Prohibition
+"Bên A không được đơn phương thay đổi mức giá đã chốt trong Phụ lục mà không báo trước.",Prohibition
+"Nghiêm cấm việc sao chép cơ sở dữ liệu khách hàng sang thiết bị cá nhân.",Prohibition
+"Người lao động không được phép nhận hoa hồng từ các đối tác hoặc nhà cung cấp của công ty.",Prohibition
+"Tuyệt đối không được phát tán các thông tin nội bộ trên mạng xã hội.",Prohibition
+"Bên nhận gia công không được giữ lại bất kỳ phế liệu nào thuộc về Bên giao gia công.",Prohibition
+"Nhà thầu không được phép sử dụng vật tư kém chất lượng hoặc không rõ nguồn gốc.",Prohibition
+"Nghiêm cấm hành vi quấy rối, phân biệt đối xử trong môi trường làm việc.",Prohibition
+"Bên B không được phép chậm trễ quá 3 ngày trong việc báo cáo tiến độ dự án.",Prohibition
+"Hợp đồng này tự động chấm dứt khi dự án được nghiệm thu và thanh lý xong.",Termination Condition
+"Khi một trong hai bên tuyên bố phá sản, hợp đồng sẽ ngay lập tức hết hiệu lực.",Termination Condition
+"Hợp đồng kết thúc ngay khi Bên B hoàn tất nghĩa vụ bảo hành 12 tháng.",Termination Condition
+"Trong trường hợp bất khả kháng kéo dài hơn 6 tháng, hợp đồng sẽ bị chấm dứt.",Termination Condition
+"Thời hạn của hợp đồng sẽ kết thúc vào đúng 17h00 ngày 31/12/2026.",Termination Condition
+"Hợp đồng hết hiệu lực khi có quyết định đình chỉ hoạt động từ cơ quan nhà nước có thẩm quyền.",Termination Condition
+"Việc chấm dứt hợp đồng sẽ diễn ra sau khi hai bên ký biên bản thanh lý.",Termination Condition
+"Hợp đồng tự động mất hiệu lực nếu Bên A không cung cấp đủ giấy phép trong vòng 30 ngày.",Termination Condition
+"Khi giấy phép kinh doanh của Bên B bị thu hồi, hợp đồng coi như chấm dứt.",Termination Condition
+"Nếu hai bên không đạt được thỏa thuận về giá mới, hợp đồng thuê nhà sẽ tự động chấm dứt.",Termination Condition
+"Giao dịch chấm dứt kể từ thời điểm Bên Mua nhận được thông báo hủy bỏ đơn hàng hợp lệ.",Termination Condition
+"Hợp đồng lao động chấm dứt khi người lao động đủ tuổi nghỉ hưu theo quy định pháp luật.",Termination Condition
+"Mọi nghĩa vụ theo hợp đồng chấm dứt sau khi Bên B đã thanh toán xong đợt cuối cùng.",Termination Condition
+"Hợp đồng tự động thanh lý khi thời hạn bảo lãnh ngân hàng kết thúc.",Termination Condition
+"Chấm dứt hiệu lực của văn bản này khi có một văn bản phụ lục khác thay thế được hai bên ký kết.",Termination Condition
+"Bên A có quyền yêu cầu Bên B làm lại các sản phẩm bị lỗi mà không phải chịu thêm bất kỳ chi phí nào.",Right
+"Người lao động được phép nghỉ ốm tối đa 05 ngày mỗi năm mà vẫn hưởng nguyên lương cơ bản.",Right
+"Bên mua có quyền giữ lại 5% giá trị hợp đồng cho đến khi hết thời hạn bảo hành.",Right
+"Bên B được quyền truy cập vào hệ thống quản lý dữ liệu nội bộ trong suốt thời gian diễn ra dự án.",Right
+"Bên A có quyền từ chối thanh toán nếu hóa đơn và chứng từ do Bên B cung cấp không hợp lệ.",Right
+"Nhà thầu được phép thuê nhà thầu phụ nếu được Chủ đầu tư chấp thuận bằng văn bản.",Right
+"Bên bán có quyền gia hạn thời gian giao hàng thêm 03 ngày trong trường hợp thời tiết xấu ảnh hưởng đến vận chuyển.",Right
+"Nhân viên được quyền tham gia các khóa đào tạo chuyên môn do công ty đài thọ 100% chi phí.",Right
+"Bên B có quyền yêu cầu trả lãi suất chậm trả đối với số tiền Bên A chậm thanh toán theo mức lãi suất ngân hàng nhà nước.",Right
+"Chủ nhà có quyền lấy lại mặt bằng ngay lập tức nếu bên thuê sử dụng sai mục đích đã thỏa thuận ban đầu.",Right
+"Bên A cung cấp dịch vụ phát triển Hệ thống Quản lý Bệnh viện Điện tử ( HIS ) phiên bản 3.0.",Obligation
+"Phạm vi: phân tích, thiết kế, phát triển, triển khai, đào tạo và bảo trì 24 tháng.",Obligation
+"Bên A cam kết hệ thống đáp ứng tiêu chuẩn bảo mật dữ liệu y tế theo Bộ Y tế.",Obligation
+"Thanh toán 4 đợt: 20% khi ký - 30% sau thiết kế - 30% sau triển khai - 20% sau nghiệm thu.",Obligation
+"Thanh toán chuyển khoản trong 10 ngày làm việc kể từ khi nhận hồ sơ hợp lệ.",Obligation
+"Bên A báo cáo tiến độ mỗi 02 tuần và họp review hàng tháng.",Obligation
+"Chậm tiến độ quá 15 ngày, Bên B có quyền yêu cầu tăng nhân lực hoặc phạt theo Điều 7.",Right
+"Bên A không được sử dụng mã nguồn tuỳ chỉnh cho bên thứ ba.",Prohibition
+"Bên B có quyền yêu cầu chuyển giao toàn bộ tài liệu kỹ thuật.",Right
+"Bên A cam kết bảo mật dữ liệu bệnh nhân, hồ sơ y tế và thông tin kinh doanh.",Obligation
+"Nghiêm cấm Bên A truy cập, sao chép hoặc chia sẻ dữ liệu bệnh nhân cho bên thứ ba.",Prohibition
+"Nghĩa vụ bảo mật kéo dài vô thời hạn đối với dữ liệu y tế.",Obligation
+"Vi phạm bảo mật: bồi thường tối thiểu 500.000.000 VNĐ.",Obligation
+"Bảo hành 24 tháng kể từ ngày nghiệm thu.",Obligation
+"Chậm tiến độ: phạt 0.3% giá trị hợp đồng mỗi tuần, tối đa 10%.",Obligation
+"Không khắc phục lỗi đúng hạn: phạt 5.000.000 VNĐ / ngày đối với lỗi nghiêm trọng.",Obligation
+"Chậm thanh toán: lãi suất 1% / tháng.",Obligation
+"Bên B có quyền chấm dứt nếu Bên A chậm quá 60 ngày hoặc chất lượng không đạt sau 02 lần yêu cầu sửa.",Right
+"Chấm dứt do lỗi Bên A: hoàn trả toàn bộ tiền và bồi thường 15% giá trị hợp đồng.",Obligation
+"Bên A bàn giao toàn bộ mã nguồn và tài liệu trong 14 ngày khi chấm dứt.",Obligation
+"Tranh chấp giải quyết tại Trung tâm Trọng tài Quốc tế Việt Nam ( VIAC ).",Obligation
+"Hợp đồng lập thành 04 bản.",Obligation
+"Mỗi bên giữ 02 bản.",Obligation
+"Hai bên thoả thuận ký kết hợp đồng lao động với các điều khoản sau:",Obligation
+"Bên B được tuyển dụng vào vị trí Kỹ sư phần mềm cấp cao ( Senior Software Engineer ) tại Phòng Phát triển Sản phẩm.",Right
+"Địa điểm làm việc: Trụ sở Công ty tại Lô A17, Khu Công nghệ cao, Quận Ngũ Hành Sơn, TP. Đà Nẵng.",Obligation
+"Bên B có nghĩa vụ hoàn thành các nhiệm vụ được giao theo mô tả công việc đính kèm Phụ lục 1.",Obligation
+"Bên A không được phép chuyển Bên B sang làm công việc khác mà không có sự đồng ý của Bên B, trừ trường hợp tạm thời theo quy định của Bộ luật Lao động.",Prohibition
+"Thời gian thử việc: 60 ngày kể từ ngày bắt đầu làm việc.",Obligation
+"Trong thời gian thử việc, Bên B được hưởng 85% mức lương chính thức.",Right
+"Sau khi hết thời gian thử việc.",Obligation
+"Bên A phải thông báo kết quả và ký chính thức trong vòng 03 ngày làm việc.",Obligation
+"A ) Phụ cấp ăn trưa: 1.500.000 VNĐ / tháng.",Right
+"B ) Phụ cấp đi lại: 1.000.000 VNĐ / tháng.",Right
+"C ) Phụ cấp điện thoại: 500.000 VNĐ / tháng.",Right
+"Tổng thu nhập hàng tháng: 33.000.000 VNĐ ( chưa trừ các khoản đóng BHXH, BHYT, thuế TNCN ).",Obligation
+"Lương được trả vào ngày 10 hàng tháng qua chuyển khoản ngân hàng.",Obligation
+"Bên B được xét thưởng hiệu suất hàng quý, mức thưởng tối đa bằng 01 tháng lương.",Right
+"Bên A phải xem xét điều chỉnh lương ít nhất 01 lần mỗi năm.",Obligation
+"Mức tăng tối thiểu không thấp hơn tỷ lệ lạm phát.",Obligation
+"Bên B được nghỉ phép năm 15 ngày / năm có hưởng lương.",Right
+"Số ngày phép chưa sử dụng được cộng dồn sang năm sau nhưng không quá 05 ngày.",Right
+"Bên B được nghỉ các ngày lễ, tết theo quy định của pháp luật.",Right
+"Bên A phải trả lương làm thêm theo đúng quy định: 150% vào ngày thường, 200% vào ngày nghỉ hàng tuần, 300% vào ngày lễ.",Obligation
+"Bên A không được yêu cầu Bên B làm thêm quá 40 giờ mỗi tháng và 200 giờ mỗi năm.",Prohibition
+"Bên A đóng bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp cho Bên B theo quy định pháp luật.",Obligation
+"Bên B được hưởng bảo hiểm sức khoẻ cao cấp ( PVI Care ) cho bản thân, mức bảo hiểm 200.000.000 VNĐ / năm.",Right
+"Bên B được tham gia các chương trình đào tạo nâng cao kỹ năng do Công ty tổ chức hoặc tài trợ.",Right
+"Bên B được hỗ trợ chi phí chứng chỉ chuyên môn quốc tế ( AWS, Azure, GCP ) với mức tối đa 15.000.000 VNĐ / năm.",Right
+"Bên B cam kết giữ bí mật mọi thông tin kỹ thuật, kinh doanh, dữ liệu khách hàng và các thông tin mật khác của Bên A trong suốt thời gian làm việc và 24 tháng sau khi chấm dứt hợp đồng.",Obligation
+"Bên B không được phép sao chép, chia sẻ hoặc sử dụng mã nguồn, tài liệu kỹ thuật của Bên A cho mục đích cá nhân hoặc bên thứ ba.",Prohibition
+"Vi phạm nghĩa vụ bảo mật.",Obligation
+"Bên B phải bồi thường thiệt hại tối thiểu 100.000.000 VNĐ và chịu trách nhiệm pháp lý theo quy định.",Obligation
+"Cấm Bên B làm việc cho đối thủ cạnh tranh trực tiếp của Bên A trong vòng 12 tháng sau khi nghỉ việc.",Prohibition
+"Bên A phải trả phí bù đắp cho điều khoản này bằng 50% mức lương tháng cuối cho mỗi tháng cam kết.",Obligation
+"Bên B có quyền đơn phương chấm dứt hợp đồng trước thời hạn nhưng phải báo trước bằng văn bản ít nhất 30 ngày.",Right
+"Bên A có quyền đơn phương chấm dứt hợp đồng khi Bên B vi phạm kỷ luật lao động nghiêm trọng theo nội quy công ty.",Right
+"Bên A phải thông báo trước ít nhất 45 ngày nếu đơn phương chấm dứt hợp đồng và phải trả trợ cấp thôi việc theo quy định.",Obligation
+"Khi chấm dứt hợp đồng.",Termination Condition
+"Bên B phải bàn giao đầy đủ tài sản, tài liệu, mã nguồn và quyền truy cập hệ thống trong vòng 07 ngày làm việc.",Obligation
+"Bên A phải thanh toán đầy đủ lương.",Obligation
+"Thưởng và các khoản phúc lợi còn thiếu cho Bên B trong vòng 14 ngày kể từ ngày chấm dứt hợp đồng.",Obligation
+"Tranh chấp phát sinh được giải quyết theo quy định của Bộ luật Lao động hiện hành.",Obligation
+"Hợp đồng được lập thành 02 bản.",Obligation
+"Mỗi bên giữ 01 bản có giá trị pháp lý như nhau.",Obligation
+"Bên A đồng ý bán.",Obligation
+"Bên B đồng ý mua các loại vật tư xây dựng theo danh mục đính kèm Phụ lục 1 của hợp đồng này.",Obligation
+"Hàng hoá phải đảm bảo chất lượng theo tiêu chuẩn TCVN hiện hành và có đầy đủ giấy chứng nhận xuất xứ.",Obligation
+"Bên A cam kết hàng hoá là hàng mới 100%, chưa qua sử dụng và không thuộc danh mục hàng cấm kinh doanh.",Obligation
+"Tổng giá trị hợp đồng là 500.000.000 VNĐ ( Năm trăm triệu đồng chẵn ), đã bao gồm thuế VAT 10%.",Obligation
+"Phương thức thanh toán: Chuyển khoản ngân hàng.",Obligation
+"A ) Đợt 1: Bên B thanh toán 30% giá trị hợp đồng, tương đương 150.000.000 VNĐ trong vòng 05 ngày làm việc kể từ ngày ký hợp đồng.",Obligation
+"B ) Đợt 2: Bên B thanh toán 50% giá trị hợp đồng, tương đương 250.000.000 VNĐ khi Bên A giao đủ hàng hoá đợt 1.",Obligation
+"Bên A phải giao hàng cho Bên B trong vòng 30 ngày kể từ ngày nhận được thanh toán đợt 1.",Obligation
+"Địa điểm giao hàng: Kho của Bên B tại 789 Điện Biên Phủ, Quận Bình Thạnh, TP. Hồ Chí Minh.",Obligation
+"Bên A chịu trách nhiệm vận chuyển hàng hoá đến địa điểm giao hàng và chịu mọi chi phí vận chuyển.",Obligation
+"Bên A phải cung cấp đầy đủ hoá đơn.",Obligation
+"Phiếu xuất kho và chứng từ liên quan.",Obligation
+"Bên B có quyền kiểm tra chất lượng hàng hoá tại thời điểm giao nhận.",Right
+"Thời gian nghiệm thu là 07 ngày làm việc kể từ ngày giao hàng.",Obligation
+"Nếu quá thời hạn mà Bên B không có ý kiến thì coi như hàng hoá đạt yêu cầu.",Obligation
+"Bên A bảo hành hàng hoá trong thời gian 12 tháng kể từ ngày nghiệm thu.",Obligation
+"Trong thời gian bảo hành.",Obligation
+"Bên A có trách nhiệm thay thế hoặc sửa chữa miễn phí trong vòng 05 ngày làm việc kể từ khi nhận được thông báo từ Bên B.",Obligation
+"Bên A có quyền yêu cầu Bên B thanh toán đúng hạn theo tiến độ quy định tại Điều 2.",Right
+"Bên A có quyền tạm ngừng giao hàng.",Right
+"Bên B chậm thanh toán quá 15 ngày so với thời hạn quy định.",Obligation
+"Bên A có nghĩa vụ giao hàng đúng chủng loại, số lượng, chất lượng và thời hạn đã thoả thuận.",Obligation
+"Bên A phải thông báo cho Bên B trước ít nhất 03 ngày nếu có thay đổi về lịch giao hàng.",Obligation
+"Bên B có quyền từ chối nhận hàng nếu hàng hoá không đúng chủng loại, số lượng hoặc không đảm bảo chất lượng.",Right
+"Bên B có quyền yêu cầu Bên A đổi hàng hoặc giảm giá nếu hàng hoá không đạt tiêu chuẩn chất lượng.",Right
+"Bên B có nghĩa vụ thanh toán đầy đủ và đúng hạn theo quy định tại Điều 2.",Obligation
+"Bên B phải cử người có thẩm quyền để tiếp nhận hàng hoá và ký biên bản giao nhận.",Obligation
+"Bên A phải chịu phạt 0.5% giá trị lô hàng chậm giao cho mỗi ngày chậm.",Obligation
+"Nhưng tổng mức phạt không vượt quá 8% giá trị hợp đồng.",Obligation
+"Bên B phải chịu lãi suất chậm trả là 1.5% mỗi tháng trên số tiền chậm thanh toán.",Obligation
+"Không bên nào được phép tiết lộ thông tin kinh doanh bí mật của bên kia cho bên thứ ba.",Prohibition
+"Bên bị ảnh hưởng được miễn trách nhiệm thực hiện nghĩa vụ trong thời gian xảy ra sự kiện bất khả kháng.",Right
+"Bên bị ảnh hưởng phải thông báo cho bên còn lại trong vòng 07 ngày kể từ khi xảy ra sự kiện bất khả kháng.",Obligation
+"Nếu sự kiện bất khả kháng kéo dài quá 90 ngày, mỗi bên có quyền đơn phương chấm dứt hợp đồng mà không phải bồi thường thiệt hại.",Right
+"Hợp đồng chấm dứt khi hai bên đã hoàn thành đầy đủ nghĩa vụ theo hợp đồng.",Termination Condition
+"Hợp đồng có thể chấm dứt trước thời hạn khi hai bên cùng thoả thuận bằng văn bản.",Termination Condition
+"Một bên có quyền đơn phương chấm dứt hợp đồng khi bên kia vi phạm nghiêm trọng các điều khoản của hợp đồng và không khắc phục trong vòng 30 ngày kể từ ngày nhận được thông báo yêu cầu khắc phục bằng văn bản.",Right
+"Khi hợp đồng bị chấm dứt trước thời hạn, các bên phải thanh toán đầy đủ các khoản nợ phát sinh trước thời điểm chấm dứt.",Obligation
+"Mọi tranh chấp phát sinh từ hoặc liên quan đến hợp đồng này.",Obligation
+"Trường hợp không thương lượng được, tranh chấp sẽ được đưa ra giải quyết tại Trung tâm Trọng tài Quốc tế Việt Nam bên cạnh Phòng Thương mại và Công nghiệp Việt Nam.",Obligation
+"Phán quyết của trọng tài là chung thẩm và ràng buộc đối với cả hai bên.",Obligation
+"Hợp đồng này có hiệu lực kể từ ngày ký và hết hiệu lực khi hai bên hoàn thành đầy đủ nghĩa vụ hoặc khi hợp đồng bị chấm dứt theo quy định tại Điều 9.",Termination Condition
+"Mọi sửa đổi, bổ sung hợp đồng phải được lập thành văn bản và có chữ ký của đại diện hợp pháp của cả hai bên.",Obligation
+"Hợp đồng này được lập thành 04 bản.",Obligation
+"Mỗi bên giữ 02 bản.",Obligation
+"Các bản có giá trị pháp lý như nhau.",Obligation

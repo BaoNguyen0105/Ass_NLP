@@ -1,0 +1,34 @@
+% --- 2.3.tex ---
+\subsection{Phân loại ý định}
+
+\subsubsection{Mục tiêu bài toán}
+Tác vụ này nhằm mục đích tự động phân loại các mệnh đề hợp đồng (đã được bóc tách ở Tác vụ 1.1) vào các nhóm ý định cụ thể (Intent), ví dụ: Điều khoản thanh toán, Điều khoản bảo mật, Điều khoản phạt vi phạm, v.v. Việc phân loại chính xác giúp hệ thống nhanh chóng định vị và trích xuất các thông tin quan trọng mà không cần rà soát toàn bộ văn bản.
+
+\subsubsection{Phương pháp tiếp cận và Triển khai}
+Để đánh giá hiệu quả của các kỹ thuật Xử lý Ngôn ngữ Tự nhiên khác nhau, nhóm đã xây dựng và đối chiếu hai mô hình: một mô hình học máy truyền thống (Baseline) và một mô hình học sâu tiên tiến (PhoBERT).
+
+\paragraph{Mô hình 1: Baseline (TF-IDF + Logistic Regression)}
+\begin{itemize}
+    \item \textbf{Trích xuất đặc trưng:} Nhóm sử dụng \texttt{TfidfVectorizer} để chuyển đổi văn bản thành vector. Cấu hình \texttt{ngram\_range=(1, 2)} được áp dụng để giữ lại thông tin ngữ cảnh của các cụm từ (bigrams), kết hợp với \texttt{max\_features=1000} để kiểm soát số lượng chiều dữ liệu, tránh hiện tượng thưa thớt (sparsity).
+    \item \textbf{Thuật toán phân loại:} Mô hình \texttt{LogisticRegression} được lựa chọn làm baseline do tốc độ huấn luyện nhanh và khả năng diễn giải tốt đối với các đặc trưng TF-IDF.
+    \item \textbf{Dự đoán:} Mô hình được huấn luyện trên tập \texttt{dataset-update.csv} và tiến hành dự đoán ý định cho các mệnh đề chưa biết trong tệp \texttt{output/clauses.txt}. Kết quả được lưu tại \texttt{intent\_classification\_baseline.txt}.
+\end{itemize}
+
+\paragraph{Mô hình 2: Nâng cao (PhoBERT)}
+\begin{itemize}
+    \item \textbf{Chuẩn bị dữ liệu:} Sử dụng \texttt{LabelEncoder} để chuyển đổi nhãn văn bản thành các ID dạng số. Lớp \texttt{ContractDataset} kế thừa từ \texttt{torch.utils.data.Dataset} được xây dựng để tương thích với quy trình huấn luyện của thư viện Transformers.
+    \item \textbf{Kiến trúc mô hình:} Sử dụng mô hình \texttt{vinai/phobert-base-v2} kết hợp với \texttt{AutoModelForSequenceClassification}. PhoBERT được tinh chỉnh (fine-tune) trên tập dữ liệu hợp đồng để tận dụng khả năng biểu diễn ngữ nghĩa theo ngữ cảnh tiếng Việt.
+    \item \textbf{Huấn luyện:} Mô hình được huấn luyện trong 8 epochs sử dụng \texttt{Trainer} API với cấu hình \texttt{warmup\_steps=10} và \texttt{weight\_decay=0.01} để tối ưu hóa quá trình hội tụ.
+    \item \textbf{Dự đoán:} Tương tự mô hình baseline, PhoBERT đưa ra dự đoán cho các mệnh đề thô và lưu kết quả tại \texttt{phobert\_intent\_classification.txt}.
+\end{itemize}
+
+\subsubsection{Đánh giá và Đối chiếu mô hình}
+Để có cái nhìn khách quan về hiệu năng, nhóm đã xây dựng một script đối chiếu độc lập (Compare models).
+\begin{itemize}
+    \item Hệ thống đọc kết quả từ cả hai tệp dự đoán và tiến hành so sánh từng dòng.
+    \item Tính toán \textbf{Tỷ lệ đồng thuận (Agreement Rate)} giữa hai mô hình trên tập dữ liệu chưa biết (Unseen data).
+    \item Các trường hợp hai mô hình đưa ra kết quả phân loại khác nhau (Mâu thuẫn) được trích xuất riêng ra tệp \texttt{model\_disagreements.csv}. Việc phân tích các nhầm lẫn này đóng vai trò quan trọng trong việc tinh chỉnh tập dữ liệu huấn luyện và cải thiện mô hình ở các vòng lặp tiếp theo.
+\end{itemize}
+
+\subsubsection{Kết quả đầu ra}
+Hệ thống xuất ra hai tệp kết quả dự đoán riêng biệt cho từng mô hình và một báo cáo phân tích đối chiếu, cho thấy rõ sự chênh lệch trong khả năng hiểu ngữ nghĩa giữa phương pháp đếm từ (TF-IDF) và phương pháp ngữ cảnh (PhoBERT).
