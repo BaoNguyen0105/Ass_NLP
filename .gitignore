@@ -1,10 +1,10 @@
 .venv/
-/VnCoreNLP/*
+VnCoreNLP/*
 _VIE__NLP_Specification.pdf
-/phobert_srl_model/*
-/phobert-ner-contract/*
-/phobert-ner-contract-final/*
-/results_phobert/*
+phobert_srl_model/*
+phobert-ner-contract/*
+phobert-ner-contract-final/*
+results_phobert/*
 phobert_srl_results.txt
 report/*
 !report/report.tex
