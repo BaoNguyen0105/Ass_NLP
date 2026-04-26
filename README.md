@@ -46,6 +46,8 @@ Tải và cài đặt Java JDK 11+.
 
 Đảm bảo biến môi trường JAVA_HOME đã được cấu hình đúng trên máy của bạn.
 
+---
+
 ## 📂 Cấu trúc Repository
 ```
 📦 NLP-Assignment
@@ -62,6 +64,8 @@ Tải và cài đặt Java JDK 11+.
  ┣ 📜 requirements.txt         # Danh sách thư viện phụ thuộc
  ┗ 📜 README.md                # File hướng dẫn dự án
 ```
+
+---
 
 ## 🚀 Hướng dẫn sử dụng
 Các chức năng được tách thành các file Jupyter Notebook độc lập để dễ dàng đánh giá và debug. Khởi chạy Jupyter và chạy lần lượt từ 1.1.ipynb đến 2.3.ipynb. Kết quả của bước trước sẽ được lưu vào thư mục output/ để làm đầu vào cho bước sau.
